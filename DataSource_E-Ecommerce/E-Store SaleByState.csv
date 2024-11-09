@@ -1,0 +1,2800 @@
+CustomerNumber,State,StateCode,SaleAmount
+4001,New Jersey,NJ,469
+6807,Kansas,KS,522
+8300,Arkansas,AR,183
+3293,Maine,ME,250
+5121,Kansas,KS,394
+3958,Utah,UT,262
+5764,West Virginia,WV,405
+5953,Texas,TX,493
+7332,Nevada,NV,278
+6331,Tennessee,TN,338
+5046,Utah,UT,119
+9120,Kansas,KS,404
+2461,New York,NY,191
+8095,California,CA,373
+3639,Ohio,OH,305
+9002,Utah,UT,456
+1990,South Dakota,SD,195
+2677,West Virginia,WV,169
+5747,Alabama,AL,220
+6988,Georgia,GA,411
+7049,Ohio,OH,273
+4860,New Mexico,NM,442
+6418,Massachusetts,MA,511
+6092,Kansas,KS,170
+8275,Nebraska,NE,257
+4976,Kentucky,KY,355
+1209,Connecticut,CT,511
+8531,Ohio,OH,309
+8846,Delaware,DE,381
+3359,Tennessee,TN,151
+2261,Illinois,IL,550
+1462,Iowa,IA,287
+4013,West Virginia,WV,128
+3267,Michigan,MI,265
+4415,Idaho,ID,400
+9492,Illinois,IL,470
+1792,Montana,MT,341
+4141,Rhode Island,RI,426
+6153,Kansas,KS,243
+5397,Montana,MT,140
+5128,Nevada,NV,393
+9975,Colorado,CO,440
+4627,Texas,TX,548
+2678,Mississippi,MS,227
+8643,Florida,FL,353
+8019,Indiana,IN,329
+6547,Kansas,KS,378
+6329,Arkansas,AR,112
+3728,Delaware,DE,271
+9485,Tennessee,TN,323
+8067,Georgia,GA,321
+5414,Rhode Island,RI,277
+6183,Alabama,AL,218
+5069,Minnesota,MN,177
+8432,Iowa,IA,498
+4850,Florida,FL,336
+5030,Arkansas,AR,329
+5487,Vermont,VT,540
+6817,Arkansas,AR,435
+6939,Iowa,IA,532
+1178,Florida,FL,336
+7679,Maryland,MD,275
+1472,Colorado,CO,459
+2173,Connecticut,CT,480
+1033,South Carolina,SC,220
+9721,Utah,UT,155
+5270,Arizona,AZ,357
+3055,West Virginia,WV,235
+7897,Rhode Island,RI,395
+8261,Virginia,VA,480
+6909,New Hampshire,NH,206
+3434,Ohio,OH,359
+1996,Connecticut,CT,377
+3402,Michigan,MI,325
+9083,Missouri,MO,299
+5000,Delaware,DE,430
+9608,Indiana,IN,128
+4655,Wisconsin,WI,548
+2837,Nebraska,NE,147
+6405,Minnesota,MN,365
+7611,Illinois,IL,211
+5273,North Carolina,NC,512
+2842,Arkansas,AR,124
+5947,Vermont,VT,436
+2985,Virginia,VA,184
+6520,North Carolina,NC,302
+8761,Utah,UT,480
+6190,Alabama,AL,259
+1446,Illinois,IL,195
+6572,Washington,WA,451
+9952,New Mexico,NM,302
+7232,Montana,MT,485
+2356,Arizona,AZ,467
+9723,New Mexico,NM,123
+9214,Illinois,IL,370
+1319,Oregon,OR,139
+8076,Florida,FL,334
+6643,Hawaii,HI,125
+1060,Louisiana,LA,364
+5718,South Dakota,SD,486
+3694,Idaho,ID,415
+6456,Illinois,IL,138
+8676,Montana,MT,303
+2856,Montana,MT,111
+3615,South Carolina,SC,143
+7130,Colorado,CO,279
+8713,Arkansas,AR,449
+5708,Wisconsin,WI,335
+6910,Idaho,ID,130
+4802,Tennessee,TN,171
+4264,North Dakota,ND,217
+1433,South Dakota,SD,169
+6574,California,CA,353
+6498,Minnesota,MN,193
+6986,Washington,WA,178
+6473,Nebraska,NE,473
+4488,Hawaii,HI,352
+7426,Hawaii,HI,432
+7863,North Carolina,NC,128
+4931,Massachusetts,MA,297
+7511,Oregon,OR,393
+5630,New Hampshire,NH,403
+7575,Kansas,KS,306
+9429,Delaware,DE,446
+3268,West Virginia,WV,475
+6900,South Dakota,SD,464
+4389,New Mexico,NM,494
+3331,Arizona,AZ,128
+5401,Florida,FL,245
+6572,North Carolina,NC,566
+9392,Hawaii,HI,186
+2046,Oregon,OR,257
+3026,Nebraska,NE,384
+6307,Oregon,OR,237
+3045,Florida,FL,345
+1670,Missouri,MO,436
+1564,Wyoming,WY,361
+2108,Oregon,OR,453
+7768,Minnesota,MN,529
+7204,California,CA,534
+4858,Iowa,IA,339
+5978,Arkansas,AR,131
+8567,Arizona,AZ,111
+3421,West Virginia,WV,366
+3862,Wisconsin,WI,379
+4792,New Jersey,NJ,185
+9276,Minnesota,MN,128
+5542,California,CA,522
+4889,Mississippi,MS,554
+4649,Alabama,AL,310
+4068,Minnesota,MN,484
+7892,Tennessee,TN,413
+9061,Tennessee,TN,412
+1140,Georgia,GA,427
+2461,New Jersey,NJ,172
+8399,Arizona,AZ,197
+3420,Wyoming,WY,362
+4069,Hawaii,HI,206
+6589,Montana,MT,406
+4704,Minnesota,MN,478
+1703,New Hampshire,NH,307
+8357,Florida,FL,411
+9908,Florida,FL,153
+3822,Iowa,IA,462
+3981,Vermont,VT,369
+8707,West Virginia,WV,230
+7536,Minnesota,MN,278
+5989,Pennsylvania,PA,468
+6991,Missouri,MO,120
+2013,Arkansas,AR,216
+8485,Kansas,KS,111
+8021,South Carolina,SC,162
+2673,Georgia,GA,111
+9497,Maryland,MD,381
+7025,Hawaii,HI,315
+8848,Kansas,KS,416
+9082,Alabama,AL,263
+4185,Missouri,MO,423
+6761,Alabama,AL,313
+6843,Wyoming,WY,489
+4274,Mississippi,MS,229
+7974,Vermont,VT,203
+2350,New Hampshire,NH,114
+6676,Maine,ME,465
+8519,Montana,MT,199
+8054,South Dakota,SD,435
+6952,Arkansas,AR,524
+1183,Connecticut,CT,204
+8792,Colorado,CO,246
+7685,Georgia,GA,264
+9786,Illinois,IL,123
+7488,Florida,FL,139
+6799,California,CA,276
+8151,Colorado,CO,337
+9391,Rhode Island,RI,343
+3837,Colorado,CO,520
+2325,Washington,WA,173
+6236,Indiana,IN,358
+1606,Ohio,OH,147
+7343,Washington,WA,129
+1007,Wyoming,WY,202
+1260,Virginia,VA,332
+7846,Texas,TX,260
+9829,Wyoming,WY,273
+9393,Maine,ME,273
+9227,Iowa,IA,162
+9392,New Mexico,NM,287
+9303,Utah,UT,127
+6811,Nebraska,NE,468
+8853,Maine,ME,472
+3164,Connecticut,CT,314
+5326,North Carolina,NC,342
+8544,Montana,MT,335
+1624,Connecticut,CT,445
+8056,Pennsylvania,PA,401
+1253,Alaska,AK,470
+2595,Wisconsin,WI,310
+3546,Oklahoma,OK,198
+2274,New Jersey,NJ,450
+7695,Washington,WA,430
+6598,Kentucky,KY,220
+6170,Hawaii,HI,359
+1698,Arkansas,AR,321
+2188,North Carolina,NC,441
+3716,Maryland,MD,140
+7987,Utah,UT,308
+3401,Minnesota,MN,150
+5955,Arizona,AZ,111
+4053,Oregon,OR,221
+1763,South Dakota,SD,379
+7958,Indiana,IN,221
+1433,Georgia,GA,247
+5418,Michigan,MI,397
+8212,North Carolina,NC,308
+6374,Connecticut,CT,362
+9809,Idaho,ID,482
+1244,Maine,ME,446
+2758,South Dakota,SD,124
+4742,Oklahoma,OK,164
+1635,Rhode Island,RI,320
+8109,South Dakota,SD,316
+5179,Hawaii,HI,347
+7194,Georgia,GA,562
+7880,Iowa,IA,130
+7820,South Dakota,SD,393
+1779,Georgia,GA,443
+1908,New Mexico,NM,266
+5006,Montana,MT,444
+8153,Mississippi,MS,550
+2851,New York,NY,262
+1724,Connecticut,CT,563
+2080,Delaware,DE,537
+9821,Texas,TX,459
+9639,Hawaii,HI,531
+1504,Delaware,DE,189
+9604,South Carolina,SC,146
+1124,Rhode Island,RI,465
+8411,Kansas,KS,354
+8269,Florida,FL,167
+1876,Iowa,IA,164
+1165,New Hampshire,NH,283
+8587,Nebraska,NE,121
+9932,Vermont,VT,141
+4266,Tennessee,TN,371
+7333,North Dakota,ND,546
+4799,Iowa,IA,314
+5328,Kansas,KS,114
+8736,Massachusetts,MA,218
+6908,Washington,WA,274
+7335,Virginia,VA,433
+8776,Maine,ME,550
+8642,North Dakota,ND,315
+9550,Ohio,OH,567
+2252,South Dakota,SD,477
+7363,South Carolina,SC,470
+8245,Rhode Island,RI,175
+5621,Maryland,MD,114
+8423,Delaware,DE,421
+3693,Alabama,AL,221
+5882,Wisconsin,WI,450
+4709,New Jersey,NJ,535
+2753,Virginia,VA,394
+4489,Vermont,VT,354
+2547,Georgia,GA,374
+1505,Colorado,CO,516
+8064,Montana,MT,252
+9086,Utah,UT,426
+1838,Nebraska,NE,256
+9080,Hawaii,HI,241
+4521,South Carolina,SC,134
+1745,Utah,UT,134
+7146,North Carolina,NC,287
+8614,North Dakota,ND,240
+5331,West Virginia,WV,289
+3982,Colorado,CO,390
+9689,Kansas,KS,230
+2325,Louisiana,LA,162
+5322,Nevada,NV,244
+9573,Hawaii,HI,254
+8891,New Hampshire,NH,215
+2537,Ohio,OH,314
+3147,Arizona,AZ,139
+7331,Arizona,AZ,439
+7271,Kentucky,KY,513
+5517,Ohio,OH,359
+7964,New Mexico,NM,315
+1067,Wisconsin,WI,466
+3869,Pennsylvania,PA,292
+5827,Georgia,GA,343
+5084,North Dakota,ND,228
+9525,Pennsylvania,PA,161
+9175,Vermont,VT,521
+5566,Kansas,KS,540
+4578,Colorado,CO,139
+1383,Indiana,IN,255
+6972,Pennsylvania,PA,271
+8506,Louisiana,LA,282
+3416,Maryland,MD,197
+9875,Hawaii,HI,175
+3112,Alaska,AK,503
+5189,Texas,TX,497
+7320,West Virginia,WV,180
+6532,Hawaii,HI,502
+3951,North Dakota,ND,154
+4689,New Mexico,NM,509
+2556,North Carolina,NC,529
+7257,Arizona,AZ,237
+9012,North Carolina,NC,186
+8875,Michigan,MI,319
+8043,Florida,FL,391
+6984,Maryland,MD,306
+3795,Michigan,MI,228
+3299,Texas,TX,321
+3820,Kentucky,KY,534
+8739,Maine,ME,511
+2554,Wisconsin,WI,197
+1605,Louisiana,LA,117
+3361,Texas,TX,153
+2799,Hawaii,HI,254
+2273,Connecticut,CT,314
+7845,North Dakota,ND,220
+7180,Idaho,ID,566
+7569,Wisconsin,WI,443
+2710,North Dakota,ND,134
+4069,Michigan,MI,282
+9784,Massachusetts,MA,194
+5533,Florida,FL,225
+1947,Hawaii,HI,229
+1724,Vermont,VT,391
+8886,Wisconsin,WI,156
+7364,Indiana,IN,121
+3018,West Virginia,WV,147
+7341,Mississippi,MS,423
+7866,South Carolina,SC,304
+2596,New York,NY,304
+9720,Connecticut,CT,410
+6577,Texas,TX,426
+9029,Illinois,IL,492
+7320,Idaho,ID,232
+4438,Ohio,OH,439
+4494,Arkansas,AR,379
+2402,Michigan,MI,255
+6677,Pennsylvania,PA,394
+1689,Missouri,MO,347
+4097,Utah,UT,516
+2686,Arizona,AZ,389
+6341,Delaware,DE,134
+3447,Rhode Island,RI,449
+6926,Virginia,VA,167
+5087,Missouri,MO,215
+3756,Rhode Island,RI,323
+5184,Nevada,NV,152
+3940,Hawaii,HI,259
+1172,Texas,TX,436
+1304,Colorado,CO,208
+3898,Massachusetts,MA,279
+5660,Mississippi,MS,232
+8590,Delaware,DE,413
+2113,Utah,UT,142
+8134,Illinois,IL,478
+6673,Georgia,GA,284
+8110,West Virginia,WV,391
+6709,Iowa,IA,247
+4150,Nevada,NV,397
+7269,Utah,UT,143
+8821,Kansas,KS,465
+5259,South Carolina,SC,559
+6883,Utah,UT,512
+7361,Illinois,IL,517
+7874,Montana,MT,256
+6327,Delaware,DE,548
+9234,Wyoming,WY,170
+7736,Delaware,DE,413
+4017,Kansas,KS,535
+4887,Ohio,OH,217
+9801,West Virginia,WV,228
+6030,Utah,UT,208
+3365,Kansas,KS,465
+7643,New Hampshire,NH,534
+9153,Colorado,CO,397
+8098,New York,NY,243
+5710,Michigan,MI,410
+7094,Minnesota,MN,552
+6480,Vermont,VT,476
+7193,Arizona,AZ,332
+9784,Arizona,AZ,556
+7927,Washington,WA,393
+7071,South Dakota,SD,479
+2135,Illinois,IL,274
+6403,Massachusetts,MA,152
+9284,Florida,FL,377
+4627,Oklahoma,OK,202
+2006,Indiana,IN,531
+5557,Wyoming,WY,178
+7600,Nebraska,NE,546
+6347,Florida,FL,248
+2895,Minnesota,MN,325
+1399,Washington,WA,424
+4808,Connecticut,CT,227
+5840,Missouri,MO,519
+2577,Rhode Island,RI,494
+7764,Virginia,VA,134
+5400,South Carolina,SC,174
+4858,Rhode Island,RI,147
+2465,Pennsylvania,PA,562
+1268,Virginia,VA,172
+4823,Minnesota,MN,154
+6554,Rhode Island,RI,203
+5541,Alabama,AL,368
+4778,Oklahoma,OK,535
+2219,Oklahoma,OK,250
+3436,Colorado,CO,246
+2361,Tennessee,TN,428
+1787,Mississippi,MS,128
+3169,Alabama,AL,228
+9288,Ohio,OH,160
+7343,New Hampshire,NH,290
+9989,Rhode Island,RI,246
+2699,Michigan,MI,326
+2097,Nevada,NV,406
+4467,Wyoming,WY,506
+1086,Florida,FL,333
+2470,North Carolina,NC,227
+7847,Wisconsin,WI,446
+5901,Nebraska,NE,545
+2821,North Dakota,ND,377
+3010,Minnesota,MN,150
+2502,Massachusetts,MA,499
+9422,Maryland,MD,304
+5356,Connecticut,CT,425
+6735,Nevada,NV,139
+1345,Massachusetts,MA,216
+5943,Iowa,IA,364
+2065,Arkansas,AR,121
+5256,Kansas,KS,284
+7837,Idaho,ID,322
+2015,Illinois,IL,335
+3279,Utah,UT,467
+4022,Minnesota,MN,398
+5727,Rhode Island,RI,304
+3588,Arizona,AZ,474
+3160,Tennessee,TN,396
+3798,Montana,MT,440
+3632,New York,NY,298
+5918,Pennsylvania,PA,134
+3847,Maryland,MD,463
+2468,Pennsylvania,PA,298
+1650,Massachusetts,MA,274
+2810,New York,NY,445
+3364,Iowa,IA,150
+5264,New Mexico,NM,273
+8083,North Carolina,NC,215
+4498,New Jersey,NJ,165
+9388,Utah,UT,401
+9722,Minnesota,MN,157
+8759,Georgia,GA,219
+5673,Nebraska,NE,363
+9286,Kansas,KS,375
+6123,Washington,WA,440
+9379,Montana,MT,452
+7748,Idaho,ID,192
+2233,Maryland,MD,536
+2934,Texas,TX,435
+3595,Idaho,ID,434
+3243,Utah,UT,479
+1207,Michigan,MI,490
+2123,Maryland,MD,406
+6474,Colorado,CO,498
+2162,Wisconsin,WI,247
+4073,Hawaii,HI,558
+5250,Indiana,IN,136
+7643,Oklahoma,OK,503
+2932,Iowa,IA,161
+9712,New York,NY,389
+1915,Idaho,ID,508
+4383,Wyoming,WY,206
+9992,New Jersey,NJ,223
+8107,Massachusetts,MA,271
+8927,New Hampshire,NH,533
+6470,Kansas,KS,504
+8096,Connecticut,CT,154
+6198,Rhode Island,RI,294
+9594,Georgia,GA,473
+1062,Hawaii,HI,332
+4205,North Dakota,ND,358
+1394,Tennessee,TN,413
+7772,Minnesota,MN,124
+2104,Arizona,AZ,285
+1096,Missouri,MO,458
+9495,Louisiana,LA,141
+7795,Montana,MT,459
+1741,Indiana,IN,413
+2302,Massachusetts,MA,325
+5263,New Hampshire,NH,137
+7366,Washington,WA,147
+3519,North Carolina,NC,284
+6201,Texas,TX,479
+4611,South Carolina,SC,452
+4262,Rhode Island,RI,149
+1757,Mississippi,MS,479
+8249,Maine,ME,324
+4589,Idaho,ID,319
+5133,Pennsylvania,PA,507
+3809,West Virginia,WV,287
+7983,Kansas,KS,423
+7015,Colorado,CO,188
+1508,Alaska,AK,449
+4456,New Mexico,NM,300
+3128,Massachusetts,MA,167
+5595,Arkansas,AR,288
+1168,Vermont,VT,208
+4763,Wisconsin,WI,120
+4431,New York,NY,317
+7333,New Hampshire,NH,511
+7214,California,CA,532
+8368,Alabama,AL,500
+2829,Alaska,AK,198
+7807,California,CA,440
+5093,Oregon,OR,138
+6299,Montana,MT,328
+1153,North Dakota,ND,233
+9657,Maryland,MD,136
+9422,Oklahoma,OK,458
+9221,South Carolina,SC,289
+5006,Iowa,IA,307
+4875,Mississippi,MS,344
+5127,Vermont,VT,475
+6850,South Carolina,SC,389
+9541,California,CA,281
+9562,California,CA,301
+3244,Kentucky,KY,534
+8877,Kansas,KS,391
+2272,Virginia,VA,533
+6212,Nebraska,NE,293
+4147,California,CA,470
+2062,Kentucky,KY,559
+7809,Iowa,IA,163
+5734,South Dakota,SD,413
+4573,Minnesota,MN,326
+9442,Pennsylvania,PA,328
+1222,Mississippi,MS,480
+3944,New Mexico,NM,302
+4357,Louisiana,LA,246
+7115,West Virginia,WV,223
+3093,Arizona,AZ,553
+9194,Missouri,MO,560
+3693,New Jersey,NJ,215
+7496,Montana,MT,475
+6336,Minnesota,MN,320
+8616,Georgia,GA,559
+7241,Minnesota,MN,241
+3650,New York,NY,524
+6804,Virginia,VA,384
+9845,West Virginia,WV,186
+7106,Virginia,VA,114
+1579,South Dakota,SD,329
+4990,Connecticut,CT,241
+1686,Idaho,ID,434
+9352,New Mexico,NM,180
+4337,Ohio,OH,321
+3413,Delaware,DE,378
+5524,Maryland,MD,369
+4330,Montana,MT,519
+4946,California,CA,298
+9253,Texas,TX,455
+5716,Iowa,IA,278
+6298,Nevada,NV,319
+3828,New York,NY,471
+6293,West Virginia,WV,178
+7362,New Jersey,NJ,502
+1921,Iowa,IA,520
+2163,Tennessee,TN,560
+2897,New York,NY,130
+4466,Alaska,AK,530
+3259,Ohio,OH,159
+6060,Idaho,ID,459
+8202,Mississippi,MS,263
+5941,Florida,FL,281
+1041,Iowa,IA,566
+4609,Louisiana,LA,302
+4867,Ohio,OH,220
+5868,Texas,TX,407
+9857,Illinois,IL,129
+2290,North Carolina,NC,349
+8986,Connecticut,CT,419
+3982,Delaware,DE,135
+6212,Arkansas,AR,529
+8655,West Virginia,WV,162
+9340,Nebraska,NE,445
+4630,Rhode Island,RI,313
+1133,Pennsylvania,PA,293
+2827,New Hampshire,NH,207
+3091,Mississippi,MS,156
+1256,Washington,WA,552
+2712,Delaware,DE,366
+3111,Kansas,KS,257
+2744,Wyoming,WY,500
+7502,Oklahoma,OK,366
+1846,Kansas,KS,252
+3762,New Mexico,NM,562
+8342,Mississippi,MS,538
+8835,Wyoming,WY,320
+1936,Arkansas,AR,312
+5615,Louisiana,LA,248
+5538,Oklahoma,OK,559
+4557,Georgia,GA,158
+2100,Maryland,MD,166
+9720,Maryland,MD,183
+2160,Florida,FL,253
+8766,Illinois,IL,543
+9283,Pennsylvania,PA,480
+1426,Colorado,CO,115
+5897,California,CA,318
+4125,Montana,MT,418
+8787,Georgia,GA,330
+2363,Rhode Island,RI,212
+4232,Arkansas,AR,247
+7396,Minnesota,MN,466
+7540,Georgia,GA,548
+2269,Texas,TX,164
+3485,North Dakota,ND,390
+8081,North Dakota,ND,243
+3107,Kentucky,KY,248
+1032,Idaho,ID,235
+7190,Virginia,VA,448
+1979,Mississippi,MS,403
+8819,Massachusetts,MA,258
+2404,Utah,UT,267
+6523,Michigan,MI,440
+3636,Mississippi,MS,564
+7158,Alabama,AL,159
+2970,Louisiana,LA,461
+3424,Indiana,IN,417
+8297,Texas,TX,564
+5639,Kansas,KS,561
+7809,Indiana,IN,296
+9511,New York,NY,176
+5853,Arkansas,AR,346
+7487,Maine,ME,182
+9905,Kansas,KS,319
+8594,Wyoming,WY,492
+8208,Michigan,MI,306
+5419,Colorado,CO,418
+9594,Maine,ME,471
+8594,Idaho,ID,319
+7693,Missouri,MO,523
+3313,Florida,FL,170
+8937,Kentucky,KY,202
+2976,New Hampshire,NH,494
+8046,Illinois,IL,323
+3340,Utah,UT,124
+9521,West Virginia,WV,450
+1867,Delaware,DE,182
+2530,Hawaii,HI,116
+9690,New Hampshire,NH,440
+4387,Utah,UT,284
+4465,West Virginia,WV,287
+9356,Hawaii,HI,569
+3843,Delaware,DE,176
+1164,Oklahoma,OK,410
+5485,Montana,MT,272
+9163,Tennessee,TN,165
+7715,Iowa,IA,538
+8388,Colorado,CO,434
+9387,Iowa,IA,306
+9504,Montana,MT,131
+8649,Nebraska,NE,479
+5461,Nebraska,NE,245
+8088,Mississippi,MS,507
+9715,Pennsylvania,PA,441
+2936,Tennessee,TN,119
+3753,Rhode Island,RI,379
+1897,Wyoming,WY,410
+3086,Wyoming,WY,399
+1652,Indiana,IN,217
+7879,Florida,FL,133
+8220,Wyoming,WY,463
+6489,South Dakota,SD,182
+2716,Tennessee,TN,236
+9927,Kentucky,KY,139
+6805,Hawaii,HI,482
+8893,Ohio,OH,441
+6789,Vermont,VT,131
+7410,Maryland,MD,490
+7986,Arizona,AZ,495
+5639,Washington,WA,544
+3665,Hawaii,HI,253
+2386,Texas,TX,337
+9881,Rhode Island,RI,153
+4403,New Jersey,NJ,317
+4961,Oklahoma,OK,515
+8472,Florida,FL,358
+7094,West Virginia,WV,558
+9657,Nebraska,NE,303
+1973,Michigan,MI,354
+2416,Kentucky,KY,178
+3930,Hawaii,HI,413
+9885,New York,NY,123
+3088,Georgia,GA,251
+3431,Montana,MT,489
+1217,Idaho,ID,354
+1992,Rhode Island,RI,478
+3758,New York,NY,553
+1433,Idaho,ID,244
+3193,Illinois,IL,549
+2894,Georgia,GA,144
+5678,Vermont,VT,389
+7059,Arizona,AZ,378
+1232,West Virginia,WV,374
+3626,Kentucky,KY,222
+3880,California,CA,492
+2997,South Dakota,SD,219
+2974,New Mexico,NM,161
+1573,Iowa,IA,405
+3777,Wisconsin,WI,190
+3456,New York,NY,140
+6863,Kentucky,KY,478
+9019,Georgia,GA,222
+8524,New York,NY,376
+6955,Maine,ME,178
+2940,New York,NY,395
+7881,Oregon,OR,352
+8959,Alaska,AK,244
+7203,South Dakota,SD,347
+9405,Alaska,AK,435
+5508,Louisiana,LA,441
+9983,Maryland,MD,403
+5474,Missouri,MO,128
+8102,Illinois,IL,538
+2916,North Dakota,ND,166
+1561,Virginia,VA,159
+2631,New Jersey,NJ,556
+7032,Montana,MT,260
+5837,Kentucky,KY,266
+3912,Washington,WA,364
+6245,Virginia,VA,459
+6624,Pennsylvania,PA,132
+9267,Florida,FL,395
+8537,Delaware,DE,206
+8055,Arkansas,AR,112
+5878,West Virginia,WV,203
+2711,Washington,WA,495
+1523,South Dakota,SD,289
+1537,Tennessee,TN,406
+1465,Oregon,OR,382
+2807,New Jersey,NJ,172
+7673,Connecticut,CT,275
+5779,Kentucky,KY,360
+8148,Pennsylvania,PA,433
+3806,Arizona,AZ,149
+5463,Tennessee,TN,467
+1317,New Hampshire,NH,312
+1866,Maine,ME,368
+5745,Oklahoma,OK,337
+3954,Mississippi,MS,378
+3018,New Hampshire,NH,482
+3370,Vermont,VT,340
+5850,Arizona,AZ,458
+4301,Delaware,DE,315
+4755,South Carolina,SC,338
+1436,Louisiana,LA,391
+7326,North Dakota,ND,410
+2305,Maryland,MD,147
+2856,Ohio,OH,445
+4160,New Hampshire,NH,488
+9868,South Dakota,SD,531
+9038,Kentucky,KY,200
+8417,California,CA,553
+5341,Missouri,MO,407
+6463,Maryland,MD,525
+8640,Wyoming,WY,553
+5857,Rhode Island,RI,551
+7242,Alaska,AK,345
+7525,Nebraska,NE,278
+3778,Idaho,ID,352
+8101,Virginia,VA,341
+1505,Tennessee,TN,321
+3713,Nevada,NV,193
+9471,North Carolina,NC,196
+9999,Wyoming,WY,249
+6173,New York,NY,501
+8768,California,CA,520
+1663,Maine,ME,222
+4124,Mississippi,MS,330
+1938,Arkansas,AR,144
+4306,New Mexico,NM,151
+5992,Vermont,VT,354
+2561,Virginia,VA,231
+5281,Vermont,VT,285
+6226,Missouri,MO,309
+6752,Wyoming,WY,489
+9488,Connecticut,CT,218
+4272,South Carolina,SC,316
+4661,California,CA,268
+7625,Virginia,VA,435
+2034,Rhode Island,RI,411
+8972,Colorado,CO,472
+5519,Ohio,OH,267
+5746,Kentucky,KY,122
+6609,Wisconsin,WI,240
+6051,Washington,WA,352
+3620,Michigan,MI,166
+3399,Texas,TX,488
+9935,Alaska,AK,428
+8366,Nebraska,NE,255
+5322,Oklahoma,OK,300
+3564,Arizona,AZ,142
+5728,New Mexico,NM,406
+5034,Texas,TX,294
+4989,Arkansas,AR,500
+4813,Kentucky,KY,483
+4272,Montana,MT,143
+7815,Arizona,AZ,405
+4706,Nevada,NV,450
+9195,Indiana,IN,435
+7036,North Dakota,ND,405
+8514,Georgia,GA,553
+7537,New York,NY,475
+4656,Illinois,IL,359
+1025,Oregon,OR,131
+2671,Texas,TX,428
+5140,Hawaii,HI,506
+7878,Michigan,MI,216
+1745,Massachusetts,MA,169
+6898,Oregon,OR,387
+7850,West Virginia,WV,407
+7147,Pennsylvania,PA,532
+9977,North Dakota,ND,362
+6222,Nebraska,NE,226
+9627,Minnesota,MN,177
+1082,Pennsylvania,PA,382
+5929,Washington,WA,408
+1164,Mississippi,MS,132
+1694,New Hampshire,NH,526
+9649,Maine,ME,503
+4057,Louisiana,LA,478
+3158,Wyoming,WY,224
+8611,Massachusetts,MA,473
+8500,Nebraska,NE,446
+4666,Arizona,AZ,220
+7783,Tennessee,TN,196
+6661,Maine,ME,174
+9875,Illinois,IL,255
+3754,North Dakota,ND,202
+4476,Washington,WA,317
+4245,Arizona,AZ,143
+6723,Missouri,MO,251
+7356,West Virginia,WV,246
+5470,North Dakota,ND,280
+4554,North Carolina,NC,149
+3231,Louisiana,LA,322
+2090,Tennessee,TN,438
+1287,Ohio,OH,462
+4173,Vermont,VT,398
+8995,Arizona,AZ,559
+4850,Pennsylvania,PA,434
+2685,North Dakota,ND,136
+8020,Iowa,IA,542
+8874,Kansas,KS,532
+2428,Connecticut,CT,172
+4502,Maryland,MD,314
+2723,Alabama,AL,266
+7682,Tennessee,TN,245
+9702,Washington,WA,209
+5239,New Jersey,NJ,402
+3371,Iowa,IA,117
+8181,Michigan,MI,559
+1228,Michigan,MI,397
+8226,Massachusetts,MA,525
+2706,Indiana,IN,376
+8687,Connecticut,CT,556
+1077,Iowa,IA,269
+1663,Nevada,NV,292
+1195,Wyoming,WY,148
+7339,Hawaii,HI,239
+1417,Missouri,MO,136
+1572,Pennsylvania,PA,211
+6057,Washington,WA,514
+9555,North Dakota,ND,265
+3048,Alaska,AK,367
+2220,South Dakota,SD,223
+1191,Maryland,MD,171
+5782,Colorado,CO,233
+9938,Alaska,AK,533
+1008,New York,NY,472
+8613,California,CA,124
+7460,Arkansas,AR,363
+4480,Georgia,GA,469
+1832,California,CA,489
+6714,Utah,UT,330
+2577,Michigan,MI,401
+8580,North Carolina,NC,344
+9039,Virginia,VA,229
+3350,New Jersey,NJ,380
+1235,South Carolina,SC,222
+9523,Georgia,GA,236
+6677,North Carolina,NC,138
+1357,Oklahoma,OK,417
+8447,Massachusetts,MA,195
+9966,Kentucky,KY,415
+3443,Vermont,VT,188
+5102,Missouri,MO,384
+3006,Washington,WA,390
+7293,Tennessee,TN,566
+5946,Oklahoma,OK,448
+8985,New Hampshire,NH,318
+1664,Utah,UT,283
+3084,Tennessee,TN,154
+6404,California,CA,376
+5485,Oregon,OR,439
+3736,Illinois,IL,316
+2537,Maryland,MD,192
+9900,Massachusetts,MA,360
+4325,North Dakota,ND,448
+3183,Utah,UT,218
+1832,Arizona,AZ,524
+6172,Nevada,NV,205
+7027,Maine,ME,459
+3957,Alaska,AK,239
+5829,Vermont,VT,289
+2044,Arkansas,AR,297
+9852,Washington,WA,174
+4669,Arizona,AZ,399
+9216,Delaware,DE,258
+7910,New York,NY,394
+9836,New Hampshire,NH,249
+7080,Kentucky,KY,380
+6266,Missouri,MO,424
+9307,Michigan,MI,562
+4143,Illinois,IL,204
+1275,New Jersey,NJ,500
+8625,Colorado,CO,496
+7277,Montana,MT,544
+9847,New Hampshire,NH,257
+9243,Delaware,DE,374
+9016,South Carolina,SC,247
+8223,New York,NY,115
+1326,Wyoming,WY,268
+4250,Hawaii,HI,528
+2395,Montana,MT,399
+5259,Hawaii,HI,434
+5925,Delaware,DE,139
+5462,Tennessee,TN,164
+4268,Florida,FL,150
+1682,Maryland,MD,252
+1826,Maryland,MD,512
+8949,New Hampshire,NH,171
+2183,North Carolina,NC,356
+1088,Oregon,OR,191
+7478,Pennsylvania,PA,291
+4702,Iowa,IA,287
+9660,Arizona,AZ,360
+8049,California,CA,261
+3966,North Dakota,ND,179
+2835,Tennessee,TN,333
+3518,Oregon,OR,411
+7130,Oklahoma,OK,368
+4467,Nebraska,NE,213
+3395,Vermont,VT,354
+7834,Maryland,MD,501
+5169,Montana,MT,306
+8499,Nebraska,NE,505
+2715,Missouri,MO,312
+7256,South Carolina,SC,272
+5422,Hawaii,HI,450
+4992,New Mexico,NM,432
+8336,New Jersey,NJ,260
+7516,Oregon,OR,155
+2033,West Virginia,WV,495
+2132,New Hampshire,NH,477
+8539,Nevada,NV,477
+5176,Louisiana,LA,115
+3059,Rhode Island,RI,165
+7039,Minnesota,MN,343
+6849,Rhode Island,RI,174
+7924,Oklahoma,OK,257
+1046,Kansas,KS,563
+4916,Pennsylvania,PA,424
+6301,Maryland,MD,353
+8634,North Dakota,ND,570
+7868,Ohio,OH,157
+1575,West Virginia,WV,415
+3529,Florida,FL,437
+4809,New Jersey,NJ,296
+3226,Utah,UT,172
+7938,Massachusetts,MA,547
+2039,Nebraska,NE,361
+7866,Alabama,AL,184
+9989,California,CA,142
+2681,North Dakota,ND,185
+5658,Hawaii,HI,325
+1507,New York,NY,420
+1790,South Carolina,SC,399
+8549,Michigan,MI,464
+4010,California,CA,177
+3686,Mississippi,MS,417
+4803,Nebraska,NE,520
+3147,Rhode Island,RI,369
+2617,Indiana,IN,270
+8068,Hawaii,HI,481
+9112,New Hampshire,NH,353
+5400,Rhode Island,RI,333
+6173,Massachusetts,MA,351
+8726,Montana,MT,289
+9720,Missouri,MO,194
+7059,Oklahoma,OK,336
+6128,Iowa,IA,531
+8087,Wyoming,WY,504
+7534,South Dakota,SD,165
+2844,New Mexico,NM,505
+9863,Maine,ME,310
+6691,Kentucky,KY,434
+2597,New Jersey,NJ,486
+4032,Virginia,VA,457
+4708,Vermont,VT,546
+3028,Delaware,DE,310
+8924,Texas,TX,291
+7466,Montana,MT,541
+9519,Maine,ME,502
+7596,Oregon,OR,440
+8631,Michigan,MI,464
+9261,Minnesota,MN,489
+1718,Iowa,IA,549
+3061,North Carolina,NC,332
+3334,Virginia,VA,167
+4996,Idaho,ID,287
+6689,Connecticut,CT,344
+5677,Indiana,IN,122
+8691,Mississippi,MS,329
+5967,Montana,MT,532
+4079,Maine,ME,125
+7235,Missouri,MO,518
+2665,Wisconsin,WI,329
+9862,Mississippi,MS,128
+9316,Mississippi,MS,401
+1752,Alaska,AK,149
+4228,Wisconsin,WI,356
+8299,Massachusetts,MA,451
+1187,Hawaii,HI,231
+4924,Vermont,VT,520
+8437,New Jersey,NJ,426
+9542,Oklahoma,OK,160
+4240,Maine,ME,543
+2287,Wisconsin,WI,464
+2499,Texas,TX,373
+3401,Florida,FL,523
+8881,California,CA,467
+6928,North Dakota,ND,217
+8986,Idaho,ID,142
+1948,Pennsylvania,PA,568
+4503,Wisconsin,WI,324
+9340,Wyoming,WY,558
+5755,New Mexico,NM,195
+6861,New Mexico,NM,235
+2854,Missouri,MO,328
+4282,South Carolina,SC,334
+3976,North Dakota,ND,121
+1218,Virginia,VA,569
+2842,Washington,WA,285
+7523,California,CA,509
+5531,Florida,FL,357
+6230,Idaho,ID,197
+9490,Maine,ME,509
+2636,Utah,UT,509
+1600,Illinois,IL,470
+6731,New Hampshire,NH,397
+3213,New Jersey,NJ,402
+5272,New Mexico,NM,556
+3219,Oklahoma,OK,551
+6712,Tennessee,TN,526
+1503,New Mexico,NM,503
+6871,Alaska,AK,470
+5822,Montana,MT,326
+3765,Idaho,ID,232
+8902,Virginia,VA,493
+5635,Colorado,CO,481
+3130,Florida,FL,300
+4201,New Mexico,NM,255
+2939,Connecticut,CT,511
+5917,Missouri,MO,328
+4853,Nevada,NV,440
+7447,Tennessee,TN,431
+9416,Connecticut,CT,195
+9230,Colorado,CO,380
+1376,Montana,MT,562
+8991,California,CA,390
+3012,Alabama,AL,235
+8742,Alabama,AL,490
+1406,Kansas,KS,437
+3177,Nevada,NV,251
+8399,Michigan,MI,478
+1290,California,CA,321
+3266,Maine,ME,323
+9961,Minnesota,MN,438
+3509,Louisiana,LA,204
+8518,Texas,TX,194
+4142,Alabama,AL,309
+5075,Tennessee,TN,409
+5039,New Jersey,NJ,519
+2295,Illinois,IL,199
+6560,Nevada,NV,144
+3572,Arizona,AZ,458
+7430,Nebraska,NE,151
+9304,Oregon,OR,236
+2203,Texas,TX,254
+1884,Idaho,ID,404
+5739,Oklahoma,OK,308
+3576,Arizona,AZ,418
+4595,New Mexico,NM,207
+7984,New Jersey,NJ,337
+4797,Iowa,IA,267
+3338,Florida,FL,236
+6389,Ohio,OH,124
+5413,South Carolina,SC,175
+6901,West Virginia,WV,276
+5170,New Hampshire,NH,488
+4734,Connecticut,CT,516
+9807,Wisconsin,WI,198
+3934,Nebraska,NE,527
+8134,Arizona,AZ,122
+8102,Illinois,IL,376
+6374,New Hampshire,NH,251
+5137,Georgia,GA,451
+9488,Wyoming,WY,278
+8042,Arizona,AZ,431
+1846,North Carolina,NC,187
+6648,Maine,ME,137
+9430,Massachusetts,MA,264
+2644,North Dakota,ND,534
+6001,New Mexico,NM,463
+5564,Pennsylvania,PA,189
+6601,Iowa,IA,437
+9908,Tennessee,TN,149
+4271,Wisconsin,WI,337
+7325,Mississippi,MS,249
+1122,Hawaii,HI,198
+6111,Vermont,VT,567
+8830,Alaska,AK,272
+3698,Alaska,AK,282
+7137,Alabama,AL,241
+9115,Colorado,CO,369
+3352,Connecticut,CT,275
+6666,Hawaii,HI,436
+8165,South Dakota,SD,147
+6831,North Dakota,ND,389
+6535,Wyoming,WY,248
+2583,Mississippi,MS,119
+6709,North Carolina,NC,202
+1187,Louisiana,LA,341
+5274,Idaho,ID,174
+4929,Texas,TX,215
+6113,Rhode Island,RI,456
+8075,New Mexico,NM,362
+9357,New Jersey,NJ,146
+9381,Maine,ME,221
+6228,West Virginia,WV,396
+4177,North Carolina,NC,509
+9052,Oklahoma,OK,122
+8579,Iowa,IA,567
+1186,Utah,UT,484
+6174,North Carolina,NC,251
+1473,Hawaii,HI,514
+8470,Minnesota,MN,427
+8501,Oregon,OR,476
+8138,Indiana,IN,177
+1670,Colorado,CO,535
+2693,Missouri,MO,171
+1738,Wisconsin,WI,195
+1774,Indiana,IN,361
+1518,New Mexico,NM,255
+7466,Colorado,CO,112
+7949,Indiana,IN,541
+7260,Utah,UT,492
+2989,Iowa,IA,454
+6480,Georgia,GA,517
+3861,Arizona,AZ,377
+1761,Rhode Island,RI,458
+5094,Alabama,AL,114
+8026,Florida,FL,362
+9785,Kentucky,KY,302
+3446,Louisiana,LA,136
+6435,South Dakota,SD,300
+3307,Wyoming,WY,110
+5422,Alabama,AL,542
+2389,South Carolina,SC,492
+9328,Rhode Island,RI,389
+5063,Montana,MT,355
+3993,Pennsylvania,PA,136
+8827,New Hampshire,NH,425
+7281,Idaho,ID,536
+4745,Nebraska,NE,222
+5809,Indiana,IN,392
+9191,Missouri,MO,339
+3725,Massachusetts,MA,290
+8816,Maine,ME,174
+4802,Wyoming,WY,233
+1146,Mississippi,MS,245
+5422,New Hampshire,NH,477
+1810,Indiana,IN,475
+5070,Pennsylvania,PA,459
+8934,Louisiana,LA,346
+5174,Iowa,IA,206
+4955,Nevada,NV,340
+9727,California,CA,180
+6508,Arkansas,AR,516
+3105,Tennessee,TN,232
+6303,Pennsylvania,PA,428
+2248,Missouri,MO,247
+8244,Hawaii,HI,289
+8568,Nebraska,NE,250
+9577,Colorado,CO,169
+4202,North Carolina,NC,290
+5830,Arkansas,AR,300
+7053,Missouri,MO,561
+9332,Massachusetts,MA,187
+6664,Missouri,MO,499
+1869,Pennsylvania,PA,312
+6901,Nebraska,NE,410
+3834,South Dakota,SD,270
+1048,Montana,MT,264
+8679,Montana,MT,149
+4614,Mississippi,MS,392
+6546,New York,NY,458
+3955,Colorado,CO,261
+5384,Washington,WA,391
+1158,New York,NY,394
+8343,Wyoming,WY,154
+6899,Arizona,AZ,349
+7928,Alabama,AL,308
+7468,Tennessee,TN,174
+2703,Texas,TX,299
+7616,Oklahoma,OK,318
+4422,California,CA,249
+6132,Tennessee,TN,198
+9235,Michigan,MI,246
+2671,Pennsylvania,PA,293
+3892,Oklahoma,OK,318
+2379,Alaska,AK,273
+5950,Georgia,GA,163
+4482,South Carolina,SC,226
+9415,North Carolina,NC,132
+6128,Alabama,AL,391
+6959,Utah,UT,378
+9560,Delaware,DE,356
+8277,Maine,ME,464
+1898,South Dakota,SD,370
+7821,Nevada,NV,349
+6124,Massachusetts,MA,398
+8393,Utah,UT,299
+4693,North Dakota,ND,464
+5233,Wyoming,WY,565
+9474,Texas,TX,431
+7193,Iowa,IA,352
+2065,Kansas,KS,124
+3207,Arkansas,AR,452
+3140,Florida,FL,462
+2866,Kansas,KS,543
+9923,Connecticut,CT,470
+6214,Missouri,MO,260
+8947,Indiana,IN,503
+7408,Connecticut,CT,181
+3786,Wisconsin,WI,337
+8427,South Dakota,SD,229
+7877,California,CA,138
+9759,Arkansas,AR,151
+3644,South Carolina,SC,278
+2424,Illinois,IL,394
+6515,West Virginia,WV,113
+6850,Mississippi,MS,127
+3823,California,CA,148
+8274,Florida,FL,434
+7321,New York,NY,493
+9104,Wyoming,WY,520
+2831,Montana,MT,198
+3963,Illinois,IL,458
+9387,New Jersey,NJ,285
+8249,Michigan,MI,543
+2324,West Virginia,WV,173
+1462,Iowa,IA,459
+1950,New York,NY,251
+8582,Tennessee,TN,467
+5366,South Dakota,SD,487
+1324,Oregon,OR,343
+2662,Washington,WA,167
+7843,Minnesota,MN,498
+8049,Minnesota,MN,388
+7895,Utah,UT,302
+7737,Tennessee,TN,253
+1783,Idaho,ID,151
+2886,Tennessee,TN,423
+6960,New Mexico,NM,392
+7121,Nevada,NV,407
+3290,Arizona,AZ,408
+5998,Montana,MT,395
+8258,Idaho,ID,514
+5481,Kansas,KS,203
+8917,West Virginia,WV,498
+6058,Kentucky,KY,541
+8090,Texas,TX,394
+2930,Louisiana,LA,469
+2683,Tennessee,TN,182
+4405,New Hampshire,NH,415
+7659,Iowa,IA,256
+5934,Ohio,OH,342
+8006,New Hampshire,NH,207
+1778,Mississippi,MS,485
+8422,Texas,TX,461
+9924,Georgia,GA,232
+1450,New York,NY,316
+1817,New Hampshire,NH,164
+1433,Indiana,IN,548
+6048,Iowa,IA,502
+6018,Rhode Island,RI,544
+9713,Arkansas,AR,247
+3169,West Virginia,WV,387
+8383,Mississippi,MS,154
+2046,Pennsylvania,PA,541
+2815,Colorado,CO,435
+6666,Wyoming,WY,355
+1402,Florida,FL,322
+3306,Illinois,IL,176
+2889,Illinois,IL,466
+8431,Florida,FL,184
+2472,California,CA,135
+6259,North Dakota,ND,520
+8693,Nebraska,NE,362
+8477,Missouri,MO,119
+9646,Pennsylvania,PA,278
+8032,Wyoming,WY,242
+1085,Arkansas,AR,239
+9799,Kentucky,KY,172
+3045,Kansas,KS,216
+9386,Arkansas,AR,246
+9595,South Dakota,SD,499
+9661,Pennsylvania,PA,200
+2524,Arkansas,AR,472
+3897,Nebraska,NE,355
+6315,West Virginia,WV,155
+4763,North Dakota,ND,113
+7194,Connecticut,CT,411
+9858,Idaho,ID,207
+6507,Iowa,IA,330
+9724,Virginia,VA,207
+3095,Utah,UT,122
+2179,Georgia,GA,417
+8357,Delaware,DE,516
+5296,New York,NY,251
+5633,Michigan,MI,447
+3950,Pennsylvania,PA,570
+9585,Wisconsin,WI,336
+2024,New York,NY,184
+1188,Ohio,OH,356
+6867,Montana,MT,455
+4776,North Carolina,NC,219
+5175,Hawaii,HI,539
+5148,Connecticut,CT,548
+3879,Georgia,GA,513
+3760,Alaska,AK,159
+4476,Florida,FL,326
+9666,South Carolina,SC,549
+3751,Pennsylvania,PA,313
+9685,Montana,MT,117
+4025,Pennsylvania,PA,409
+3962,North Dakota,ND,116
+1936,Wisconsin,WI,565
+2425,Maryland,MD,467
+9358,Michigan,MI,275
+6819,Wyoming,WY,403
+5622,Massachusetts,MA,430
+4651,Michigan,MI,350
+4893,Arizona,AZ,224
+3718,Delaware,DE,200
+3569,Indiana,IN,477
+4577,Colorado,CO,134
+9171,Vermont,VT,207
+6716,North Dakota,ND,292
+1774,Arkansas,AR,241
+3622,West Virginia,WV,157
+3756,Nevada,NV,228
+2953,Ohio,OH,557
+8491,Massachusetts,MA,431
+3443,Oregon,OR,195
+6076,Alabama,AL,470
+5951,Louisiana,LA,550
+8209,Tennessee,TN,160
+7509,Maryland,MD,187
+6095,Virginia,VA,177
+9023,Maryland,MD,350
+4019,North Carolina,NC,537
+3985,Virginia,VA,285
+1288,Mississippi,MS,549
+8446,Texas,TX,370
+5686,Ohio,OH,515
+9287,Florida,FL,127
+4335,Missouri,MO,533
+5161,Texas,TX,346
+7531,Colorado,CO,381
+3194,California,CA,366
+5525,Oregon,OR,513
+4618,Delaware,DE,387
+6306,Arizona,AZ,446
+1124,Utah,UT,356
+1733,South Dakota,SD,264
+5746,Alabama,AL,342
+2588,Pennsylvania,PA,485
+7170,Delaware,DE,527
+3919,Alaska,AK,521
+7473,West Virginia,WV,114
+2312,Connecticut,CT,121
+5885,Kansas,KS,539
+8276,Illinois,IL,404
+7400,Hawaii,HI,207
+1136,Mississippi,MS,265
+7198,Minnesota,MN,505
+3271,Wyoming,WY,467
+4201,Alaska,AK,462
+1338,Washington,WA,215
+4657,Michigan,MI,558
+4916,Florida,FL,408
+5061,Nevada,NV,558
+4410,Virginia,VA,171
+3747,New Hampshire,NH,495
+5763,Illinois,IL,355
+9334,Oregon,OR,144
+4693,Missouri,MO,453
+7521,West Virginia,WV,538
+8598,Iowa,IA,449
+2207,Delaware,DE,220
+7980,North Dakota,ND,117
+2151,Maine,ME,355
+4524,New York,NY,191
+7905,Arizona,AZ,347
+4106,Michigan,MI,373
+1425,Ohio,OH,368
+7587,New York,NY,378
+4962,Kansas,KS,478
+4040,Arizona,AZ,468
+1372,Vermont,VT,247
+5531,Nebraska,NE,404
+8397,Washington,WA,170
+2714,Iowa,IA,176
+7537,Nebraska,NE,185
+7919,Oregon,OR,522
+1010,Alaska,AK,225
+2873,West Virginia,WV,269
+2477,Maine,ME,199
+7554,Maine,ME,273
+5166,Massachusetts,MA,276
+3546,Wisconsin,WI,473
+9922,South Carolina,SC,249
+7715,Hawaii,HI,319
+4712,Mississippi,MS,146
+7135,Delaware,DE,136
+6897,New Jersey,NJ,241
+6285,Virginia,VA,543
+6581,Wyoming,WY,447
+6963,Idaho,ID,443
+1972,Utah,UT,460
+7458,Massachusetts,MA,184
+7295,Vermont,VT,189
+4967,New Hampshire,NH,164
+6869,Delaware,DE,413
+9689,Vermont,VT,455
+5852,Ohio,OH,442
+2474,Delaware,DE,206
+7680,New Jersey,NJ,490
+9346,Illinois,IL,521
+1748,Wisconsin,WI,229
+9368,Kentucky,KY,166
+3910,Louisiana,LA,255
+9361,Illinois,IL,265
+3855,Alabama,AL,458
+1018,Oklahoma,OK,146
+1916,Minnesota,MN,442
+5419,Alabama,AL,474
+5667,Arkansas,AR,427
+3035,Kansas,KS,438
+4888,Florida,FL,199
+2632,Colorado,CO,568
+7654,Massachusetts,MA,435
+2972,West Virginia,WV,436
+5882,Alabama,AL,340
+9019,Kentucky,KY,341
+5540,New Hampshire,NH,414
+8052,Vermont,VT,430
+6554,Wisconsin,WI,155
+2951,Ohio,OH,193
+8742,Indiana,IN,442
+7345,Alaska,AK,134
+2139,Pennsylvania,PA,117
+5086,North Carolina,NC,260
+3079,Colorado,CO,119
+2470,West Virginia,WV,220
+7434,Georgia,GA,536
+7337,Delaware,DE,414
+7824,Tennessee,TN,350
+4565,Iowa,IA,555
+7707,South Dakota,SD,553
+9015,Delaware,DE,544
+5323,West Virginia,WV,544
+4677,Oregon,OR,461
+8570,Mississippi,MS,164
+8362,Ohio,OH,560
+4434,New York,NY,347
+3065,North Carolina,NC,501
+3617,Utah,UT,124
+6304,Tennessee,TN,491
+3014,Florida,FL,368
+9723,Louisiana,LA,252
+5540,Alaska,AK,163
+7720,Massachusetts,MA,235
+5709,Michigan,MI,302
+5356,Oklahoma,OK,448
+6741,Maryland,MD,507
+1512,Rhode Island,RI,399
+9455,Maryland,MD,257
+5302,Idaho,ID,486
+4898,Maryland,MD,460
+2707,North Carolina,NC,448
+6323,Virginia,VA,158
+7487,Hawaii,HI,514
+6294,Maryland,MD,126
+8288,Texas,TX,359
+7797,Wisconsin,WI,345
+5180,Maine,ME,355
+5282,Hawaii,HI,526
+5064,North Carolina,NC,314
+2687,Maryland,MD,447
+2239,New Hampshire,NH,128
+8654,Georgia,GA,235
+7304,Michigan,MI,534
+4442,Illinois,IL,515
+3991,Kansas,KS,453
+9330,Massachusetts,MA,118
+4027,Illinois,IL,529
+4376,Wisconsin,WI,456
+3798,Florida,FL,458
+2905,Connecticut,CT,390
+6084,Idaho,ID,115
+4234,Oregon,OR,212
+1791,Utah,UT,154
+7199,Rhode Island,RI,518
+9908,Delaware,DE,502
+6948,Georgia,GA,457
+4864,Mississippi,MS,215
+6437,Pennsylvania,PA,273
+4800,North Dakota,ND,437
+9685,Idaho,ID,144
+7062,Oklahoma,OK,406
+3406,Georgia,GA,271
+4972,Texas,TX,218
+9741,Oklahoma,OK,363
+3458,Maine,ME,476
+9997,Alaska,AK,528
+3803,Michigan,MI,435
+9568,Kansas,KS,530
+1292,Montana,MT,393
+4046,Delaware,DE,368
+3222,Arizona,AZ,511
+6101,Delaware,DE,195
+7053,Ohio,OH,224
+3352,Oklahoma,OK,533
+4935,Missouri,MO,212
+6501,Wyoming,WY,435
+9876,Arizona,AZ,230
+5946,Illinois,IL,243
+8989,Texas,TX,445
+5337,Florida,FL,503
+7315,New Jersey,NJ,152
+7474,Maine,ME,422
+1781,Washington,WA,490
+5141,North Carolina,NC,350
+1768,Montana,MT,181
+7811,New Mexico,NM,133
+5750,Washington,WA,298
+3599,Colorado,CO,141
+5806,Connecticut,CT,353
+3576,Illinois,IL,361
+5341,Colorado,CO,492
+4403,Tennessee,TN,402
+5558,Maine,ME,203
+5913,South Carolina,SC,409
+9832,Kentucky,KY,475
+4831,Arizona,AZ,311
+1761,Utah,UT,524
+4468,Indiana,IN,444
+4261,Oregon,OR,351
+2201,Colorado,CO,245
+3415,New Mexico,NM,244
+2242,Kentucky,KY,451
+7591,Florida,FL,329
+6150,Arkansas,AR,211
+2567,Nevada,NV,160
+6669,Utah,UT,566
+5787,Illinois,IL,183
+8822,Montana,MT,140
+6201,West Virginia,WV,513
+6020,Ohio,OH,499
+5609,Montana,MT,417
+8382,Texas,TX,200
+2182,Iowa,IA,469
+7904,Maine,ME,424
+3674,Arkansas,AR,533
+5109,New Jersey,NJ,118
+7369,Kentucky,KY,463
+8319,Wisconsin,WI,150
+2136,Arkansas,AR,206
+5161,Wyoming,WY,429
+8648,Montana,MT,312
+6180,Kentucky,KY,439
+8207,Louisiana,LA,539
+5435,Vermont,VT,564
+6581,Oregon,OR,189
+6461,Minnesota,MN,483
+4593,Virginia,VA,403
+3541,Ohio,OH,436
+4799,Tennessee,TN,445
+9906,Massachusetts,MA,297
+6203,Michigan,MI,255
+8235,Hawaii,HI,363
+2964,Alabama,AL,124
+3849,Arkansas,AR,520
+1894,Delaware,DE,208
+2351,Arkansas,AR,551
+9465,Oregon,OR,472
+1862,Alabama,AL,524
+1366,New Mexico,NM,313
+8104,Kansas,KS,413
+4222,Colorado,CO,205
+7468,Maine,ME,143
+8795,Virginia,VA,456
+2637,Maine,ME,546
+5342,Rhode Island,RI,264
+1009,Massachusetts,MA,372
+3621,Texas,TX,504
+6691,Colorado,CO,549
+5464,Wisconsin,WI,519
+7066,Colorado,CO,469
+7862,Delaware,DE,551
+1419,Oklahoma,OK,383
+6649,Georgia,GA,172
+6754,Indiana,IN,436
+4323,New York,NY,477
+3829,Texas,TX,273
+5083,South Dakota,SD,464
+8074,New York,NY,414
+6482,Indiana,IN,125
+9438,Kansas,KS,393
+8638,Wisconsin,WI,452
+4751,Montana,MT,474
+6360,Montana,MT,328
+7490,Pennsylvania,PA,469
+6023,Nebraska,NE,376
+4959,Arkansas,AR,418
+2129,North Carolina,NC,262
+1902,Delaware,DE,232
+6507,Vermont,VT,192
+9026,Arkansas,AR,320
+1865,New Jersey,NJ,489
+5241,Washington,WA,110
+8648,Oregon,OR,442
+9947,Colorado,CO,232
+4539,New York,NY,458
+3072,Arkansas,AR,179
+4768,North Dakota,ND,318
+7696,Alabama,AL,522
+6548,Utah,UT,293
+4024,South Carolina,SC,283
+9758,Wisconsin,WI,312
+1947,Indiana,IN,235
+1801,Minnesota,MN,459
+3351,South Carolina,SC,374
+7391,Minnesota,MN,237
+5187,Colorado,CO,307
+7821,Nebraska,NE,354
+9815,Oregon,OR,518
+2056,Maryland,MD,225
+1179,Massachusetts,MA,402
+5792,West Virginia,WV,382
+4228,Massachusetts,MA,353
+6234,North Dakota,ND,465
+6524,Maryland,MD,353
+2647,New Hampshire,NH,170
+9892,Oklahoma,OK,120
+1988,Kentucky,KY,358
+6798,South Carolina,SC,499
+1961,Virginia,VA,501
+2259,North Carolina,NC,528
+1137,Georgia,GA,231
+1701,Utah,UT,539
+6806,Massachusetts,MA,465
+3925,Kansas,KS,324
+2827,Oregon,OR,429
+8079,Tennessee,TN,471
+2353,South Carolina,SC,167
+3259,Kansas,KS,139
+5215,Maryland,MD,356
+7704,Minnesota,MN,561
+9625,Iowa,IA,488
+1580,New Mexico,NM,318
+9143,Hawaii,HI,377
+5086,Hawaii,HI,251
+3195,Missouri,MO,388
+3612,Delaware,DE,381
+3801,Maryland,MD,252
+2161,Mississippi,MS,549
+8068,Vermont,VT,240
+6498,Maryland,MD,410
+7611,Michigan,MI,264
+1211,Missouri,MO,135
+3098,New Jersey,NJ,351
+8054,Arkansas,AR,217
+1769,Florida,FL,278
+7442,Colorado,CO,200
+4105,Florida,FL,486
+9479,New Hampshire,NH,262
+7131,Missouri,MO,411
+8446,South Carolina,SC,255
+5650,Tennessee,TN,123
+9827,Virginia,VA,402
+7166,Maryland,MD,319
+6482,Kansas,KS,441
+2038,Kentucky,KY,373
+6800,Indiana,IN,520
+8905,New Mexico,NM,408
+3008,Washington,WA,488
+5730,Oregon,OR,190
+9188,Delaware,DE,127
+9251,Oregon,OR,399
+8614,Minnesota,MN,411
+1389,Utah,UT,427
+5068,Minnesota,MN,257
+5395,Missouri,MO,538
+7682,Nevada,NV,513
+3773,Mississippi,MS,362
+1468,Vermont,VT,255
+1862,Massachusetts,MA,383
+6470,Wisconsin,WI,297
+8320,Mississippi,MS,200
+8362,Iowa,IA,403
+1458,Texas,TX,397
+8314,Mississippi,MS,483
+5495,Hawaii,HI,231
+3315,Oklahoma,OK,216
+3258,Montana,MT,135
+2756,Hawaii,HI,297
+9874,Rhode Island,RI,421
+7017,Nebraska,NE,227
+5947,Nevada,NV,377
+6527,Utah,UT,354
+1547,Alabama,AL,434
+7227,South Carolina,SC,263
+2574,Massachusetts,MA,416
+8774,Louisiana,LA,182
+2998,North Carolina,NC,558
+5832,Hawaii,HI,531
+8416,Illinois,IL,231
+2835,New Hampshire,NH,509
+8547,Hawaii,HI,153
+2098,Louisiana,LA,365
+6555,Alaska,AK,559
+8429,Wisconsin,WI,414
+7818,Wyoming,WY,217
+2238,Massachusetts,MA,171
+8647,Washington,WA,551
+3717,Connecticut,CT,428
+1246,Connecticut,CT,482
+9303,South Carolina,SC,431
+3103,Oklahoma,OK,155
+1595,Vermont,VT,254
+5341,New Mexico,NM,287
+1396,Massachusetts,MA,534
+1545,New Mexico,NM,353
+5335,Montana,MT,166
+7781,California,CA,327
+6066,Rhode Island,RI,121
+6274,Massachusetts,MA,461
+3996,New Jersey,NJ,413
+2665,Rhode Island,RI,568
+8442,Rhode Island,RI,332
+5234,Arkansas,AR,341
+5731,Michigan,MI,544
+1980,Nevada,NV,345
+1768,Mississippi,MS,366
+5467,Virginia,VA,477
+1218,North Dakota,ND,165
+2953,Delaware,DE,287
+8853,Texas,TX,345
+6760,Massachusetts,MA,555
+7841,Alabama,AL,246
+5760,Rhode Island,RI,408
+5033,Alabama,AL,163
+3029,Michigan,MI,152
+7453,Wisconsin,WI,469
+7188,Alabama,AL,353
+5866,Florida,FL,314
+1820,New Hampshire,NH,233
+4361,North Dakota,ND,444
+5891,North Dakota,ND,291
+5908,Wisconsin,WI,282
+3318,New York,NY,312
+2718,North Dakota,ND,168
+3680,Massachusetts,MA,419
+8211,Texas,TX,505
+8827,New York,NY,170
+8481,Connecticut,CT,491
+8371,Iowa,IA,123
+6940,Louisiana,LA,233
+6590,North Carolina,NC,126
+4063,North Carolina,NC,302
+7691,Pennsylvania,PA,249
+8723,Arkansas,AR,387
+6986,Wisconsin,WI,243
+3424,North Dakota,ND,480
+8568,Arizona,AZ,253
+3380,Vermont,VT,241
+8306,Louisiana,LA,211
+1917,New Mexico,NM,568
+8555,Michigan,MI,371
+5727,Missouri,MO,361
+5107,Wisconsin,WI,168
+9790,Montana,MT,511
+5464,Idaho,ID,326
+5215,Connecticut,CT,350
+4631,Hawaii,HI,335
+2350,Pennsylvania,PA,380
+2212,South Dakota,SD,536
+1070,New Hampshire,NH,298
+8148,Montana,MT,464
+6868,New Jersey,NJ,483
+8787,Missouri,MO,411
+8440,Massachusetts,MA,117
+1632,Ohio,OH,329
+6437,Wisconsin,WI,322
+8635,Maryland,MD,147
+1733,Indiana,IN,161
+3955,Hawaii,HI,185
+1822,Washington,WA,142
+2314,Colorado,CO,426
+2072,Delaware,DE,356
+8164,New Hampshire,NH,399
+3003,West Virginia,WV,322
+5181,Texas,TX,479
+5510,Ohio,OH,537
+4692,Mississippi,MS,524
+2587,Oklahoma,OK,429
+9110,California,CA,566
+3986,Delaware,DE,552
+4656,Washington,WA,229
+1625,Massachusetts,MA,127
+4580,Tennessee,TN,568
+7346,Alaska,AK,260
+6943,New York,NY,405
+2855,Oklahoma,OK,120
+1621,New York,NY,196
+9743,Rhode Island,RI,177
+1088,Texas,TX,264
+2410,Rhode Island,RI,375
+5461,Michigan,MI,295
+3551,North Carolina,NC,125
+7446,New Mexico,NM,523
+1522,Oklahoma,OK,236
+3647,South Dakota,SD,546
+2899,Kansas,KS,330
+4116,Texas,TX,128
+9782,Nevada,NV,400
+1129,Illinois,IL,231
+3076,New Mexico,NM,298
+7762,Maryland,MD,481
+7922,Connecticut,CT,428
+8974,Ohio,OH,250
+4936,Mississippi,MS,336
+9843,Maryland,MD,369
+7592,Minnesota,MN,421
+8772,Arizona,AZ,523
+9147,Idaho,ID,361
+7125,New Jersey,NJ,553
+4921,Louisiana,LA,376
+9603,Montana,MT,152
+9660,Hawaii,HI,302
+1932,Maryland,MD,564
+6165,Utah,UT,438
+2379,West Virginia,WV,398
+6343,Delaware,DE,306
+3387,New Mexico,NM,242
+1663,Hawaii,HI,439
+1205,Florida,FL,363
+6991,Kentucky,KY,317
+8310,Minnesota,MN,569
+3220,North Dakota,ND,224
+5259,Arkansas,AR,239
+5597,Nebraska,NE,481
+7666,Indiana,IN,370
+6419,Georgia,GA,270
+6377,South Dakota,SD,183
+3326,Wisconsin,WI,234
+3932,Oregon,OR,212
+3804,Arkansas,AR,428
+2996,North Carolina,NC,130
+3171,Alabama,AL,312
+4934,Utah,UT,176
+2309,Florida,FL,262
+3717,Alabama,AL,413
+5301,Idaho,ID,445
+7241,Virginia,VA,115
+5956,Mississippi,MS,251
+2061,Minnesota,MN,400
+6290,Georgia,GA,141
+7390,Wisconsin,WI,564
+9118,Michigan,MI,151
+2549,Louisiana,LA,324
+3893,New Jersey,NJ,450
+2389,Oklahoma,OK,342
+8581,Georgia,GA,542
+6592,Michigan,MI,568
+7797,Missouri,MO,369
+3816,North Dakota,ND,541
+7605,Arizona,AZ,555
+2987,Kansas,KS,221
+1198,Iowa,IA,436
+1719,New Jersey,NJ,363
+5880,Florida,FL,556
+5876,Vermont,VT,355
+8317,Massachusetts,MA,236
+2234,Montana,MT,358
+9493,Kentucky,KY,491
+9220,Idaho,ID,158
+4132,North Dakota,ND,131
+3457,North Carolina,NC,506
+4857,Nevada,NV,545
+8998,Colorado,CO,392
+7861,Alaska,AK,474
+6847,Nevada,NV,160
+4546,Georgia,GA,349
+3867,Maryland,MD,246
+4313,Connecticut,CT,381
+8069,Illinois,IL,177
+8191,Arizona,AZ,473
+6747,Michigan,MI,228
+5640,Maine,ME,114
+9756,South Dakota,SD,355
+3404,Kansas,KS,296
+2072,New Mexico,NM,404
+2670,Delaware,DE,542
+3812,South Dakota,SD,538
+2884,Virginia,VA,223
+9956,New Jersey,NJ,167
+7769,South Carolina,SC,308
+4187,Delaware,DE,192
+6702,Nevada,NV,325
+3363,Alabama,AL,212
+8066,Texas,TX,191
+2352,Iowa,IA,364
+2255,South Carolina,SC,343
+3283,Minnesota,MN,239
+1532,Missouri,MO,169
+6825,Vermont,VT,234
+3718,Hawaii,HI,180
+4906,Idaho,ID,282
+7116,Nevada,NV,486
+5295,North Carolina,NC,168
+7641,New Hampshire,NH,235
+2995,Maine,ME,167
+8755,Mississippi,MS,552
+5955,Alabama,AL,497
+6337,Alabama,AL,410
+2529,New Jersey,NJ,134
+1771,Nebraska,NE,481
+1500,New Mexico,NM,117
+3891,Tennessee,TN,131
+6672,Indiana,IN,539
+7747,Washington,WA,209
+8560,South Carolina,SC,309
+1799,Alabama,AL,493
+3849,New Hampshire,NH,171
+5832,Oregon,OR,459
+4569,Ohio,OH,219
+8322,Florida,FL,247
+3072,Georgia,GA,368
+8747,Colorado,CO,208
+4415,Arkansas,AR,247
+4271,Louisiana,LA,477
+6234,Nebraska,NE,242
+1337,New Hampshire,NH,111
+6602,Michigan,MI,311
+7189,Kentucky,KY,330
+5785,North Carolina,NC,140
+3055,Texas,TX,316
+1237,Illinois,IL,557
+7988,North Dakota,ND,339
+5070,Illinois,IL,426
+8362,Wisconsin,WI,124
+9209,Tennessee,TN,116
+6689,West Virginia,WV,332
+4065,Florida,FL,570
+7429,Utah,UT,280
+7436,Vermont,VT,382
+9684,Nebraska,NE,152
+4128,New Mexico,NM,377
+3581,Ohio,OH,453
+2735,Colorado,CO,191
+6499,Oklahoma,OK,498
+1614,North Carolina,NC,247
+4787,Maryland,MD,159
+6537,West Virginia,WV,342
+4658,South Carolina,SC,158
+6092,Illinois,IL,489
+2491,Wyoming,WY,461
+8875,Minnesota,MN,166
+3848,California,CA,541
+2050,Nebraska,NE,450
+3834,Georgia,GA,116
+1610,Massachusetts,MA,484
+3849,Maryland,MD,535
+8165,North Dakota,ND,549
+8087,Wisconsin,WI,204
+9121,Rhode Island,RI,285
+1655,Missouri,MO,213
+8190,Illinois,IL,568
+2039,Ohio,OH,259
+3572,New York,NY,320
+7218,Tennessee,TN,118
+9054,Maryland,MD,422
+9396,Nebraska,NE,483
+7543,Virginia,VA,420
+8949,Kentucky,KY,289
+1603,Mississippi,MS,527
+2307,South Carolina,SC,326
+5462,Alaska,AK,169
+6503,New York,NY,194
+4187,Oklahoma,OK,360
+3069,California,CA,321
+3847,Hawaii,HI,148
+2400,Colorado,CO,479
+1253,North Dakota,ND,337
+2275,Maine,ME,317
+4023,Massachusetts,MA,321
+9244,Michigan,MI,127
+7124,New Jersey,NJ,300
+5556,Louisiana,LA,242
+9798,Oklahoma,OK,329
+7539,Massachusetts,MA,259
+7305,Texas,TX,560
+3472,Arkansas,AR,285
+8942,Wisconsin,WI,528
+7891,Minnesota,MN,152
+8209,California,CA,178
+6077,Alabama,AL,410
+7053,Alabama,AL,184
+7086,New Mexico,NM,378
+3237,New Hampshire,NH,262
+2675,Florida,FL,153
+8027,Ohio,OH,275
+7776,Illinois,IL,389
+5202,West Virginia,WV,178
+2346,Maryland,MD,421
+2691,Connecticut,CT,164
+8160,Connecticut,CT,461
+9026,Arkansas,AR,509
+4280,Georgia,GA,192
+6590,Oregon,OR,294
+5134,Virginia,VA,384
+4704,Iowa,IA,126
+7566,Missouri,MO,321
+2875,Washington,WA,415
+8705,Alabama,AL,264
+4360,South Carolina,SC,262
+3102,Idaho,ID,209
+6875,Indiana,IN,521
+2369,New Mexico,NM,214
+1764,California,CA,563
+5055,Massachusetts,MA,336
+7889,Tennessee,TN,562
+8474,California,CA,306
+6849,South Carolina,SC,357
+4853,Nevada,NV,496
+7377,Vermont,VT,421
+9760,Utah,UT,144
+3729,South Dakota,SD,459
+8840,Montana,MT,470
+2153,South Dakota,SD,366
+9715,New York,NY,380
+1497,Wyoming,WY,234
+7718,Virginia,VA,351
+2420,Mississippi,MS,500
+5415,Minnesota,MN,271
+4754,New York,NY,343
+7812,Utah,UT,158
+7602,Minnesota,MN,501
+9581,Vermont,VT,365
+5984,Pennsylvania,PA,374
+1365,Idaho,ID,340
+2381,New York,NY,312
+1945,Delaware,DE,203
+2142,Missouri,MO,112
+9473,Maine,ME,146
+8102,Kentucky,KY,321
+7543,Washington,WA,165
+6382,New Mexico,NM,550
+2508,Wisconsin,WI,147
+5247,Wisconsin,WI,238
+6800,Arkansas,AR,376
+6331,Montana,MT,309
+5867,Tennessee,TN,296
+9566,New York,NY,525
+5868,South Dakota,SD,528
+5985,Alabama,AL,566
+8670,Montana,MT,512
+1642,Vermont,VT,254
+5316,Michigan,MI,147
+3342,Alaska,AK,429
+2289,Wyoming,WY,145
+3001,Maine,ME,478
+6953,Massachusetts,MA,159
+6698,Oklahoma,OK,317
+9561,Vermont,VT,410
+9980,Kentucky,KY,557
+6900,Michigan,MI,467
+1225,Rhode Island,RI,457
+6557,New Hampshire,NH,238
+1595,Virginia,VA,255
+8868,West Virginia,WV,127
+3183,Iowa,IA,430
+2348,Utah,UT,271
+5790,New York,NY,145
+7443,Kentucky,KY,477
+5125,West Virginia,WV,297
+6161,Michigan,MI,389
+9575,Maryland,MD,343
+8747,Ohio,OH,291
+3576,Wyoming,WY,492
+1218,Kansas,KS,177
+3021,California,CA,536
+5136,North Carolina,NC,449
+5182,Michigan,MI,148
+6385,Arizona,AZ,221
+6944,Louisiana,LA,502
+9218,Rhode Island,RI,432
+4443,New York,NY,117
+9992,Alaska,AK,236
+7117,Arkansas,AR,531
+5233,Washington,WA,404
+5788,Oklahoma,OK,433
+7251,Michigan,MI,509
+7794,Idaho,ID,210
+3814,New Jersey,NJ,293
+7394,North Carolina,NC,206
+6285,Mississippi,MS,374
+6318,New Jersey,NJ,471
+4800,Idaho,ID,486
+5741,Vermont,VT,352
+4899,Alabama,AL,238
+4942,South Dakota,SD,258
+2423,Massachusetts,MA,118
+3581,Hawaii,HI,275
+2371,Georgia,GA,519
+3898,Vermont,VT,448
+9354,Louisiana,LA,420
+7114,Delaware,DE,382
+8517,Maryland,MD,525
+8269,Oregon,OR,311
+4815,Virginia,VA,272
+8824,California,CA,287
+8319,Kansas,KS,206
+3095,Nebraska,NE,155
+9201,Connecticut,CT,513
+5542,Washington,WA,328
+9523,Michigan,MI,127
+7423,North Carolina,NC,194
+5495,Minnesota,MN,416
+5888,Georgia,GA,188
+1453,Utah,UT,248
+9502,New Hampshire,NH,391
+6864,Kentucky,KY,138
+3992,New York,NY,147
+7077,Texas,TX,114
+7670,Georgia,GA,202
+9780,Vermont,VT,383
+2162,New Hampshire,NH,201
+3636,North Dakota,ND,163
+6127,Wisconsin,WI,200
+5254,North Carolina,NC,315
+6187,Arizona,AZ,307
+9310,Alaska,AK,418
+4143,Kansas,KS,393
+3047,Florida,FL,298
+1821,Vermont,VT,310
+5922,Rhode Island,RI,257
+4241,Vermont,VT,375
+6097,Delaware,DE,565
+4708,Michigan,MI,320
+5810,Michigan,MI,467
+2944,Florida,FL,349
+3615,Nevada,NV,510
+3674,Massachusetts,MA,510
+7791,New Mexico,NM,423
+1645,Mississippi,MS,241
+8454,Indiana,IN,138
+9119,Maryland,MD,299
+2012,Arkansas,AR,472
+3465,Connecticut,CT,327
+1590,Virginia,VA,348
+5196,North Carolina,NC,148
+5169,Vermont,VT,242
+6215,West Virginia,WV,123
+1901,Massachusetts,MA,528
+2262,Kentucky,KY,392
+7937,West Virginia,WV,358
+5467,Kansas,KS,182
+3539,Kentucky,KY,224
+2519,New Hampshire,NH,333
+2419,Nevada,NV,439
+2083,Alaska,AK,144
+8919,New York,NY,449
+9373,Mississippi,MS,223
+9009,Florida,FL,269
+7475,South Dakota,SD,441
+1893,Vermont,VT,334
+9053,Vermont,VT,309
+6531,South Dakota,SD,456
+1873,Arizona,AZ,455
+6540,Oklahoma,OK,439
+5369,North Dakota,ND,137
+4731,Oklahoma,OK,214
+9929,Virginia,VA,543
+5951,North Carolina,NC,524
+4938,South Dakota,SD,149
+5959,Nebraska,NE,488
+5270,Washington,WA,295
+7534,New York,NY,488
+5412,Oregon,OR,285
+1796,Texas,TX,337
+3657,Michigan,MI,137
+7190,Rhode Island,RI,209
+9069,Maine,ME,206
+1354,Georgia,GA,490
+7675,Missouri,MO,175
+1863,Michigan,MI,405
+4191,South Dakota,SD,520
+6999,Maryland,MD,548
+9429,California,CA,240
+8828,Louisiana,LA,210
+2665,Mississippi,MS,484
+2630,Mississippi,MS,111
+6749,Michigan,MI,432
+1157,Delaware,DE,479
+6214,Illinois,IL,227
+9530,Massachusetts,MA,147
+1216,Vermont,VT,267
+7315,Wisconsin,WI,515
+9345,Kentucky,KY,524
+6022,Hawaii,HI,136
+7219,Wyoming,WY,470
+4792,Alabama,AL,558
+7674,Massachusetts,MA,381
+3224,West Virginia,WV,256
+3043,Nebraska,NE,449
+7312,Massachusetts,MA,412
+7211,Pennsylvania,PA,149
+4855,North Dakota,ND,335
+9354,Ohio,OH,456
+3054,Rhode Island,RI,511
+8267,Iowa,IA,434
+6727,Delaware,DE,211
+1544,Arizona,AZ,420
+5946,Hawaii,HI,488
+4398,South Dakota,SD,483
+4203,Montana,MT,418
+6539,Connecticut,CT,367
+9707,Alaska,AK,217
+6562,Maine,ME,185
+1856,Wisconsin,WI,509
+1620,New Jersey,NJ,155
+8096,New York,NY,305
+9765,Kansas,KS,287
+7516,Louisiana,LA,342
+2737,Georgia,GA,321
+1149,South Carolina,SC,481
+8313,North Dakota,ND,479
+5482,Oklahoma,OK,118
+5607,Arizona,AZ,285
+6709,Michigan,MI,198
+5288,Arizona,AZ,275
+8324,Texas,TX,280
+4182,New Hampshire,NH,242
+1245,West Virginia,WV,111
+5464,Missouri,MO,513
+6588,North Dakota,ND,400
+6226,Maine,ME,477
+9271,West Virginia,WV,475
+7988,Virginia,VA,510
+5706,Idaho,ID,290
+6242,Utah,UT,400
+8900,California,CA,319
+5337,South Carolina,SC,435
+3368,Montana,MT,339
+4086,Oklahoma,OK,146
+2081,California,CA,295
+5026,Nevada,NV,473
+3811,Hawaii,HI,545
+5102,Washington,WA,267
+6553,Illinois,IL,479
+1163,Montana,MT,538
+7362,Montana,MT,225
+2914,Connecticut,CT,558
+9196,Iowa,IA,339
+4595,Pennsylvania,PA,366
+7671,Arkansas,AR,330
+9327,Indiana,IN,300
+6127,Vermont,VT,230
+4538,Minnesota,MN,389
+7363,Utah,UT,121
+8845,New York,NY,318
+1471,South Dakota,SD,136
+8176,Oklahoma,OK,114
+8297,New Mexico,NM,417
+1728,New Jersey,NJ,192
+4500,Rhode Island,RI,344
+7773,Nebraska,NE,519
+8323,Montana,MT,344
+8127,New Jersey,NJ,263
+3962,Ohio,OH,177
+9271,Minnesota,MN,240
+4373,Connecticut,CT,553
+6321,Texas,TX,193
+9934,Alaska,AK,385
+8523,Hawaii,HI,498
+6500,New Jersey,NJ,152
+9477,New Hampshire,NH,113
+9066,Delaware,DE,417
+4859,Virginia,VA,454
+8211,Maryland,MD,242
+1434,West Virginia,WV,357
+4167,Nevada,NV,410
+9128,New Hampshire,NH,437
+9689,Vermont,VT,172
+5359,Oregon,OR,328
+1749,California,CA,346
+2260,Vermont,VT,364
+4444,Washington,WA,213
+5140,Wyoming,WY,342
+5162,Idaho,ID,130
+4855,Georgia,GA,551
+7411,Georgia,GA,345
+9759,Indiana,IN,180
+6859,Wisconsin,WI,185
+5907,Mississippi,MS,474
+2862,Ohio,OH,292
+9417,New Hampshire,NH,323
+7263,Massachusetts,MA,529
+7106,New Hampshire,NH,405
+7348,Arkansas,AR,516
+1743,Kentucky,KY,170
+4773,Utah,UT,403
+7467,Tennessee,TN,110
+5125,Nebraska,NE,372
+6152,Ohio,OH,332
+6692,Colorado,CO,281
+5217,Maine,ME,379
+3137,California,CA,313
+6612,Ohio,OH,465
+5678,Wisconsin,WI,290
+1439,Illinois,IL,567
+5961,Ohio,OH,540
+4203,Arizona,AZ,363
+2308,Massachusetts,MA,529
+4440,Georgia,GA,497
+5599,Maine,ME,525
+9504,New York,NY,560
+4764,Nevada,NV,494
+9438,Connecticut,CT,552
+8428,Georgia,GA,479
+7034,Montana,MT,136
+2431,Alabama,AL,227
+5086,California,CA,499
+4673,Mississippi,MS,321
+3542,Nevada,NV,338
+5063,New Hampshire,NH,324
+5598,Texas,TX,520
+8894,Ohio,OH,391
+6254,Pennsylvania,PA,166
+3925,Utah,UT,400
+2578,Wyoming,WY,504
+7028,Pennsylvania,PA,381
+3199,South Dakota,SD,197
+7398,North Dakota,ND,390
+5615,Massachusetts,MA,171
+7487,Utah,UT,254
+1319,Idaho,ID,275
+9989,Washington,WA,223
+7175,Kentucky,KY,233
+2980,Idaho,ID,480
+3241,New York,NY,372
+3643,West Virginia,WV,318
+2256,New Mexico,NM,231
+9431,Illinois,IL,417
+9887,Rhode Island,RI,286
+6289,Michigan,MI,308
+5720,Iowa,IA,194
+3120,Oklahoma,OK,259
+8488,Pennsylvania,PA,324
+4126,New Hampshire,NH,426
+6439,Michigan,MI,408
+1618,Virginia,VA,138
+4528,Oregon,OR,330
+8773,Alabama,AL,274
+7819,Alaska,AK,275
+9054,Missouri,MO,419
+5324,Connecticut,CT,560
+6240,Iowa,IA,447
+5609,Arizona,AZ,225
+3050,Nebraska,NE,552
+6261,North Dakota,ND,436
+1432,Massachusetts,MA,466
+1720,New Mexico,NM,254
+1254,Rhode Island,RI,390
+1292,Kentucky,KY,362
+1217,Indiana,IN,526
+2581,Ohio,OH,337
+6472,Washington,WA,514
+2197,Mississippi,MS,501
+5990,Mississippi,MS,417
+5273,Washington,WA,189
+6617,Idaho,ID,146
+1211,Kentucky,KY,464
+9924,Wyoming,WY,344
+8475,Washington,WA,412
+1755,Rhode Island,RI,516
+8890,Maryland,MD,455
+9883,Oregon,OR,188
+7233,Montana,MT,500
+2348,Iowa,IA,254
+2739,Michigan,MI,133
+2700,Iowa,IA,185
+3901,Missouri,MO,324
+2155,Connecticut,CT,221
+4129,North Dakota,ND,115
+8822,South Dakota,SD,474
+8166,Texas,TX,401
+7977,Alabama,AL,154
+2478,Illinois,IL,258
+4274,California,CA,221
+7678,Virginia,VA,173
+7512,Tennessee,TN,548
+4598,Kentucky,KY,244
+8771,Connecticut,CT,198
+6165,Alaska,AK,226
+6779,Virginia,VA,229
+5862,Iowa,IA,117
+6544,Nevada,NV,496
+4198,Virginia,VA,269
+1336,New Jersey,NJ,394
+9687,Michigan,MI,180
+5410,South Carolina,SC,144
+4874,New York,NY,193
+3678,Colorado,CO,475
+4768,Florida,FL,288
+7847,Ohio,OH,449
+2907,Mississippi,MS,310
+6104,Michigan,MI,252
+9828,Colorado,CO,241
+4294,New Jersey,NJ,570
+3513,Nebraska,NE,289
+3066,Georgia,GA,326
+5320,Texas,TX,193
+9258,Oklahoma,OK,376
+4825,Colorado,CO,280
+1765,Michigan,MI,445
+8830,New Jersey,NJ,283
+7763,Idaho,ID,545
+6487,California,CA,468
+3276,Massachusetts,MA,387
+8677,California,CA,546
+7867,West Virginia,WV,227
+5701,Maine,ME,396
+6347,Wyoming,WY,487
+9111,Indiana,IN,286
+7794,Maine,ME,204
+2583,New Mexico,NM,308
+5864,New York,NY,282
+8380,Indiana,IN,268
+3813,Delaware,DE,491
+7505,Utah,UT,111
+4302,Utah,UT,453
+9545,Kentucky,KY,244
+2373,Arizona,AZ,436
+8353,Missouri,MO,126
+3753,Oregon,OR,172
+9735,New York,NY,304
+1300,Massachusetts,MA,551
+6146,Tennessee,TN,538
+7489,South Carolina,SC,323
+2822,South Carolina,SC,312
+6254,Texas,TX,181
+5498,Connecticut,CT,559
+6635,Idaho,ID,315
+3713,Nebraska,NE,516
+9390,Montana,MT,161
+7321,Nebraska,NE,177
+2433,Vermont,VT,207
+2730,Colorado,CO,489
+3078,Oklahoma,OK,568
+8347,Colorado,CO,535
+1347,New Jersey,NJ,250
+6880,Virginia,VA,199
+2782,South Carolina,SC,433
+3991,Vermont,VT,197
+8577,Rhode Island,RI,230
+3212,Wyoming,WY,195
+2441,Oregon,OR,372
+3538,Alabama,AL,353
+6669,Hawaii,HI,525
+4258,Georgia,GA,532
+9376,Hawaii,HI,126
+9355,Wyoming,WY,354
+7836,Washington,WA,239
+6742,Nevada,NV,375
+9291,North Carolina,NC,190
+4921,Nevada,NV,210
+1038,Virginia,VA,219
+5423,Ohio,OH,443
+9967,New Mexico,NM,112
+9007,Utah,UT,277
+8490,North Dakota,ND,187
+9667,Wisconsin,WI,240
+8791,Washington,WA,379
+3376,Wyoming,WY,199
+6063,Mississippi,MS,209
+7695,Hawaii,HI,568
+1911,New Jersey,NJ,554
+7995,Massachusetts,MA,425
+7400,Illinois,IL,212
+7630,Texas,TX,373
+2303,Missouri,MO,131
+9871,New Hampshire,NH,252
+3969,Oregon,OR,193
+4460,Utah,UT,374
+3753,Nevada,NV,154
+2435,Alabama,AL,475
+2953,New Hampshire,NH,116
+8940,Maryland,MD,479
+2734,Connecticut,CT,366
+5379,New Jersey,NJ,564
+1578,Oregon,OR,124
+6932,Massachusetts,MA,381
+5276,Hawaii,HI,373
+3013,Tennessee,TN,198
+9030,Rhode Island,RI,235
+9937,New Mexico,NM,362
+7351,Florida,FL,313
+3239,North Dakota,ND,272
+5435,Oklahoma,OK,307
+4115,Montana,MT,122
+2969,Michigan,MI,426
+7439,Pennsylvania,PA,437
+8333,New Hampshire,NH,124
+1522,Pennsylvania,PA,525
+2604,Delaware,DE,146
+7098,Missouri,MO,355
+4493,Maine,ME,284
+5752,Texas,TX,237
+4611,South Dakota,SD,392
+8562,New Jersey,NJ,558
+6713,Iowa,IA,209
+5803,New Hampshire,NH,236
+5602,West Virginia,WV,394
+4191,Mississippi,MS,324
+3752,Mississippi,MS,263
+6479,Idaho,ID,115
+6483,Maryland,MD,524
+7345,Pennsylvania,PA,133
+8014,Rhode Island,RI,532
+9997,Wyoming,WY,182
+3256,North Carolina,NC,330
+1462,Michigan,MI,215
+2522,Iowa,IA,141
+1522,New York,NY,237
+5879,Maine,ME,379
+6215,Ohio,OH,530
+5904,Minnesota,MN,536
+7928,Connecticut,CT,365
+9354,New York,NY,219
+5131,Maine,ME,451
+2503,Kansas,KS,547
+2321,Alabama,AL,494
+1774,Alaska,AK,151
+7606,Tennessee,TN,392
+9348,Idaho,ID,500
+5040,Idaho,ID,166
+2344,California,CA,177
+9126,Kansas,KS,465
+4597,Utah,UT,122
+7355,Utah,UT,212
+1823,Tennessee,TN,293
+4677,Missouri,MO,418
+5958,Washington,WA,548
+8727,Oregon,OR,153
+1620,North Dakota,ND,400
+8385,Maine,ME,455
+5651,Delaware,DE,349
+8759,Louisiana,LA,434
+5574,Minnesota,MN,288
+4648,Delaware,DE,190
+9250,New York,NY,388
+7125,Minnesota,MN,153
+8854,Delaware,DE,176
+9273,New Mexico,NM,326
+4404,Idaho,ID,395
+5368,New Jersey,NJ,157
+4052,New Mexico,NM,329
+9910,Washington,WA,275
+9101,Illinois,IL,376
+4754,Connecticut,CT,122
+2487,New Hampshire,NH,330
+2516,North Carolina,NC,232
+8672,Utah,UT,266
+1275,Maine,ME,434
+7636,South Carolina,SC,284
+1325,North Dakota,ND,415
+3337,Wisconsin,WI,288
+3855,New York,NY,253
+4053,New Mexico,NM,405
+7016,North Carolina,NC,209
+1348,New York,NY,150
+1151,Illinois,IL,290
+6960,Mississippi,MS,534
+3240,Delaware,DE,338
+9644,California,CA,214
+1697,California,CA,496
+4021,Alabama,AL,270
+3997,California,CA,362
+9018,Massachusetts,MA,112
+9307,Massachusetts,MA,426
+4553,North Dakota,ND,310
+6365,Washington,WA,268
+5180,South Carolina,SC,148
+4177,Rhode Island,RI,464
+6622,North Dakota,ND,371
+3383,Kansas,KS,433
+9425,Nevada,NV,464
+9097,Indiana,IN,346
+8591,New Jersey,NJ,117
+3692,Virginia,VA,286
+1006,Colorado,CO,530
+2774,Washington,WA,325
+2168,Oklahoma,OK,323
+5859,South Carolina,SC,394
+5276,Kansas,KS,306
+5361,Washington,WA,407
+2375,Texas,TX,564
+3354,Arkansas,AR,475
+9508,Minnesota,MN,374
+6513,Ohio,OH,190
+7642,South Dakota,SD,179
+5361,Hawaii,HI,346
+1002,Alaska,AK,117
+2977,Iowa,IA,244
+1327,North Carolina,NC,180
+7276,West Virginia,WV,536
+7266,New Jersey,NJ,503
+8119,New York,NY,298
+4609,Tennessee,TN,271
+6275,Maine,ME,529
+1662,South Carolina,SC,199
+1733,North Dakota,ND,371
+2393,Georgia,GA,177
+8426,Tennessee,TN,318
+6338,South Dakota,SD,246
+9389,Montana,MT,550
+6074,Florida,FL,136
+2987,Tennessee,TN,470
+6398,Wyoming,WY,262
+8225,South Dakota,SD,317
+3145,Arizona,AZ,570
+3303,Maryland,MD,158
+4351,Virginia,VA,428
+5531,Nebraska,NE,561
+8660,Massachusetts,MA,286
+9559,New Jersey,NJ,123
+2728,Utah,UT,435
+9420,South Carolina,SC,370
+6096,Arkansas,AR,546
+2038,Connecticut,CT,544
+4408,New Hampshire,NH,195
+5624,Virginia,VA,248
+5485,New Hampshire,NH,568
+1456,Mississippi,MS,553
+5638,Washington,WA,269
+9229,Massachusetts,MA,391
+6019,Rhode Island,RI,234
+8517,New Jersey,NJ,165
+7951,New Mexico,NM,317
+4069,Vermont,VT,138
+8328,West Virginia,WV,182
+7027,New York,NY,306
+3781,New Jersey,NJ,503
+5543,Georgia,GA,176
+6492,Indiana,IN,558
+7606,Kentucky,KY,318
+9724,Massachusetts,MA,383
+4351,Colorado,CO,219
+5375,Florida,FL,418
+4177,Florida,FL,112
+9163,West Virginia,WV,368
+5156,Virginia,VA,409
+7426,Florida,FL,212
+1881,Vermont,VT,443
+9063,Rhode Island,RI,522
+8144,New Hampshire,NH,397
+1893,Vermont,VT,251
+7351,Utah,UT,455
+9336,Wyoming,WY,139
+8741,Kansas,KS,213
+4208,Texas,TX,127
+2342,Tennessee,TN,185
+8472,Ohio,OH,261
+3035,Mississippi,MS,374
+6036,Maine,ME,238
+7504,Nevada,NV,206
+4079,Kansas,KS,170
+9547,Idaho,ID,293
+6481,Oregon,OR,423
+8748,Connecticut,CT,333
+6661,Minnesota,MN,543
+5771,Utah,UT,339
+3161,Washington,WA,532
+7697,Alabama,AL,490
+9595,New Hampshire,NH,312
+7341,Texas,TX,406
+7869,Georgia,GA,149
+2280,New Jersey,NJ,511
+7512,New Jersey,NJ,240
+9042,Texas,TX,114
+9816,New York,NY,182
+5617,Montana,MT,120
+4672,Hawaii,HI,158
+6389,Michigan,MI,361
+8051,Connecticut,CT,467
+9008,Nevada,NV,434
+3496,Nevada,NV,564
+5027,Oregon,OR,356
+9380,Arkansas,AR,530
+7448,Oklahoma,OK,137
+3900,Missouri,MO,369
+8177,Alabama,AL,124
+3312,Michigan,MI,430
+5022,New Mexico,NM,486
+9807,Alaska,AK,222
+8215,Louisiana,LA,285
+4865,Georgia,GA,155
+7498,North Carolina,NC,404
+2942,New Jersey,NJ,452
+1393,Wisconsin,WI,339
+3484,Arkansas,AR,346
+8262,Louisiana,LA,332
+8365,Wyoming,WY,295
+3732,Kentucky,KY,315
+3917,North Dakota,ND,222
+9740,Vermont,VT,447
+8322,Colorado,CO,295
+8257,New York,NY,562
+6778,New Mexico,NM,450
+4977,Ohio,OH,244
+7930,Pennsylvania,PA,524
+2993,West Virginia,WV,169
+6337,Washington,WA,197
+2001,Mississippi,MS,168
+3481,New Mexico,NM,244
+4588,Oregon,OR,570
+6578,Kansas,KS,470
+6819,Mississippi,MS,536
+6793,Delaware,DE,472
+6819,South Dakota,SD,231
+7333,Michigan,MI,132
+2118,Georgia,GA,356
+7876,New York,NY,343
+5737,Texas,TX,160
+9487,Texas,TX,174
+1204,Wisconsin,WI,390

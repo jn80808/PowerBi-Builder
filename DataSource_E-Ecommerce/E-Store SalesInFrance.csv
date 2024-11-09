@@ -1,0 +1,103 @@
+INSEE Code,HASC,Department,Capital,Region,Sales
+1,FR.AR.AI,Ain,Bourg-en-Bresse,Auvergne-Rhône-Alpes,70856
+2,FR.NC.AS,Aisne,Laon,Hauts-de-France,47293
+3,FR.AR.AL,Allier,Moulins,Auvergne-Rhône-Alpes,49201
+4,FR.PR.AP,Alpes-de-Haute-Provence 2,Digne-les-Bains,Provence-Alpes-Côte d'Azur,61255
+5,FR.PR.HA,Hautes-Alpes,Gap,Provence-Alpes-Côte d'Azur,39529
+6,FR.PR.AM,Alpes-Maritimes,Nice,Provence-Alpes-Côte d'Azur,66406
+7,FR.AR.AH,Ardèche,Privas,Auvergne-Rhône-Alpes,46546
+8,FR.AO.AN,Ardennes,Charleville-Mézières,Grand Est,28961
+9,FR.LP.AG,Ariège,Foix,Occitanie,17644
+10,FR.AO.AB,Aube,Troyes,Grand Est,10352
+11,FR.LP.AD,Aude,Carcassonne,Occitanie,57869
+12,FR.LP.AV,Aveyron,Rodez,Occitanie,49299
+13,FR.PR.BD,Bouches-du-Rhône,Marseille,Provence-Alpes-Côte d'Azur,40844
+14,FR.ND.CV,Calvados,Caen,Normandy,25022
+15,FR.AR.CL,Cantal,Aurillac,Auvergne-Rhône-Alpes,75303
+16,FR.AC.CT,Charente,Angoulême,Nouvelle-Aquitaine,17342
+17,FR.AC.CM,Charente-Maritime,La Rochelle,Nouvelle-Aquitaine,58200
+18,FR.CN.CH,Cher,Bourges,Centre-Val de Loire,50271
+19,FR.AC.CZ,Corrèze,Tulle,Nouvelle-Aquitaine,54811
+2A,FR.CE.CS,Corse-du-Sud,Ajaccio,Corsica,23106
+2B,FR.CE.HC,Haute-Corse,Bastia,Corsica,15245
+21,FR.BF.CO,Côte-d'Or,Dijon,Bourgogne-Franche-Comté,38229
+22,FR.BT.CA,Côtes-d'Armor,Saint-Brieuc,Brittany Brittany,76599
+23,FR.AC.CR,Creuse,Guéret,Nouvelle-Aquitaine,23088
+24,FR.AC.DD,Dordogne,Périgueux,Nouvelle-Aquitaine,42508
+25,FR.BF.DB,Doubs,Besançon,Bourgogne-Franche-Comté,54966
+26,FR.AR.DM,Drôme,Valence,Auvergne-Rhône-Alpes,27768
+27,FR.ND.EU,Eure,Évreux,Normandy,17496
+28,FR.CN.EL,Eure-et-Loir,Chartres,Centre-Val de Loire,69859
+29,FR.BT.FI,Finistère,Quimper,Brittany Brittany,43785
+30,FR.LP.GA,Gard,Nîmes,Occitanie,62049
+31,FR.LP.HG,Haute-Garonne,Toulouse,Occitanie,55947
+32,FR.LP.GE,Gers,Auch,Occitanie,30659
+33,FR.AC.GI,Gironde,Bordeaux,Nouvelle-Aquitaine,19768
+34,FR.LP.HE,Hérault,Montpellier,Occitanie,50010
+35,FR.BT.IV,Ille-et-Vilaine,Rennes,Brittany Brittany,47386
+36,FR.CN.IN,Indre,Châteauroux,Centre-Val de Loire,27578
+37,FR.CN.IL,Indre-et-Loire,Tours,Centre-Val de Loire,32227
+38,FR.AR.IS,Isère,Grenoble,Auvergne-Rhône-Alpes,22197
+39,FR.BF.JU,Jura,Lons-le-Saunier,Bourgogne-Franche-Comté,42457
+40,FR.AC.LD,Landes,Mont-de-Marsan,Nouvelle-Aquitaine,63671
+41,FR.CN.LC,Loir-et-Cher,Blois,Centre-Val de Loire,50439
+42,FR.AR.LR,Loire,Saint-Étienne,Auvergne-Rhône-Alpes,64735
+43,FR.AR.HL,Haute-Loire,Le Puy-en-Velay,Auvergne-Rhône-Alpes,53622
+44,FR.PL.LA,Loire-Atlantique,Nantes,Pays de la Loire,68553
+45,FR.CN.LT,Loiret,Orléans,Centre-Val de Loire,45817
+46,FR.LP.LO,Lot,Cahors,Occitanie,35169
+47,FR.AC.LG,Lot-et-Garonne,Agen,Nouvelle-Aquitaine,63457
+48,FR.LP.LZ,Lozère,Mende,Occitanie,14190
+49,FR.PL.ML,Maine-et-Loire,Angers,Pays de la Loire,11076
+50,FR.ND.MH,Manche,Saint-Lô,Normandy,73993
+51,FR.AO.MR,Marne,Châlons-en-Champagne,Grand Est,40394
+52,FR.AO.HM,Haute-Marne,Chaumont,Grand Est,63371
+53,FR.PL.MY,Mayenne,Laval,Pays de la Loire,17506
+54,FR.AO.MM,Meurthe-et-Moselle,Nancy,Grand Est,57521
+55,FR.AO.MS,Meuse,Bar-le-Duc,Grand Est,35872
+56,FR.BT.MB,Morbihan,Vannes,Brittany Brittany,60541
+57,FR.AO.MO,Moselle,Metz,Grand Est,17794
+58,FR.BF.NI,Nièvre,Nevers,Bourgogne-Franche-Comté,51429
+59,FR.NC.NO,Nord,Lille,Hauts-de-France,16432
+60,FR.NC.OI,Oise,Beauvais,Hauts-de-France,48235
+61,FR.ND.OR,Orne,Alençon,Normandy,10644
+62,FR.NC.PC,Pas-de-Calais,Arras,Hauts-de-France,68287
+63,FR.AR.PD,Puy-de-Dôme,Clermont-Ferrand,Auvergne-Rhône-Alpes,20973
+64,FR.AC.PA,Pyrénées-Atlantiques,Pau,Nouvelle-Aquitaine,45009
+65,FR.LP.HP,Hautes-Pyrénées,Tarbes,Occitanie,19657
+66,FR.LP.PO,Pyrénées-Orientales,Perpignan,Occitanie,73896
+67,FR.AO.BR,Bas-Rhin,Strasbourg,Grand Est,36939
+68,FR.AO.HR,Haut-Rhin,Colmar,Grand Est,16076
+69D,FR.AR.RH,Rhône,Lyon (provisional),Auvergne-Rhône-Alpes,62690
+69M,,Lyon Metropolis,Lyon,Auvergne-Rhône-Alpes,39117
+70,FR.BF.HN,Haute-Saône,Vesoul,Bourgogne-Franche-Comté,47900
+71,FR.BF.SL,Saône-et-Loire,Mâcon,Bourgogne-Franche-Comté,45653
+72,FR.PL.ST,Sarthe,Le Mans,Pays de la Loire,71822
+73,FR.AR.SV,Savoie,Chambéry,Auvergne-Rhône-Alpes,66445
+74,FR.AR.HS,Haute-Savoie,Annecy,Auvergne-Rhône-Alpes,10029
+75,,Paris,Paris,Île-de-France,17878
+76,FR.ND.SM,Seine-Maritime,Rouen,Normandy,70797
+77,FR.IF.SE,Seine-et-Marne,Melun,Île-de-France,59004
+78,FR.IF.YV,Yvelines,Versailles,Île-de-France,62959
+79,FR.AC.DS,Deux-Sèvres,Niort,Nouvelle-Aquitaine,36714
+80,FR.NC.SO,Somme,Amiens,Hauts-de-France,22858
+81,FR.LP.TA,Tarn,Albi,Occitanie,71545
+82,FR.LP.TG,Tarn-et-Garonne,Montauban,Occitanie,51085
+83,FR.PR.VR,Var,Toulon,Provence-Alpes-Côte d'Azur,45138
+84,FR.PR.VC,Vaucluse,Avignon,Provence-Alpes-Côte d'Azur,25971
+85,FR.PL.VD,Vendée,La Roche-sur-Yon,Pays de la Loire,66195
+86,FR.AC.VN,Vienne,Poitiers,Nouvelle-Aquitaine,27460
+87,FR.AC.HV,Haute-Vienne,Limoges,Nouvelle-Aquitaine,41246
+88,FR.AO.VG,Vosges,Épinal,Grand Est,44441
+89,FR.BF.YO,Yonne,Auxerre,Bourgogne-Franche-Comté,62639
+90,FR.BF.TB,Territoire de Belfort,Belfort,Bourgogne-Franche-Comté,19284
+91,FR.IF.ES,Essonne,Évry,Île-de-France,75649
+92,FR.IF.HD,Hauts-de-Seine,Nanterre,Île-de-France,79991
+93,FR.IF.SS,Seine-Saint-Denis,Bobigny,Île-de-France,69685
+94,FR.IF.VM,Val-de-Marne,Créteil,Île-de-France,18840
+95,FR.IF.VO,Val-d'Oise,Pontoise 15,Île-de-France,53119
+971,,Guadeloupe,Basse-Terre,Guadeloupe,44965
+972,,Martinique,Fort-de-France,Martinique,67525
+973,,Guyane,Cayenne,French Guiana,34265
+974,,La Réunion,Saint-Denis,Réunion,14651
+976,,Mayotte,Mamoudzou,Mayotte,27163

@@ -1,0 +1,679 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report MustUnderstand="df" xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner" xmlns:cl="http://schemas.microsoft.com/sqlserver/reporting/2010/01/componentdefinition" xmlns:df="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition/defaultfontfamily" xmlns:am="http://schemas.microsoft.com/sqlserver/reporting/authoringmetadata">
+  <rd:ReportUnitType>Mm</rd:ReportUnitType>
+  <rd:ReportID>90f953d2-0c59-4e28-b8e7-3527e0c8f402</rd:ReportID>
+  <am:AuthoringMetadata>
+    <am:CreatedBy>
+      <am:Name>PBIRB</am:Name>
+      <am:Version>15.7.1807.730</am:Version>
+    </am:CreatedBy>
+    <am:UpdatedBy>
+      <am:Name>PBIRB</am:Name>
+      <am:Version>15.7.1807.730</am:Version>
+    </am:UpdatedBy>
+    <am:LastModifiedTimestamp>2024-05-23T11:39:13.9317828Z</am:LastModifiedTimestamp>
+  </am:AuthoringMetadata>
+  <df:DefaultFontFamily>Segoe UI</df:DefaultFontFamily>
+  <AutoRefresh>0</AutoRefresh>
+  <DataSources>
+    <DataSource Name="DS_MSSQL_INVOICE">
+      <rd:SecurityType>DataBase</rd:SecurityType>
+      <ConnectionProperties>
+        <DataProvider>SQL</DataProvider>
+        <ConnectString>Data Source=svbeantea.database.windows.net;Initial Catalog=db_E-Store</ConnectString>
+        <Prompt>Specify a user name and password for data source DataSource1:</Prompt>
+      </ConnectionProperties>
+      <rd:DataSourceID>26c87a78-9ef1-482e-a3c0-c3f834d04c6e</rd:DataSourceID>
+    </DataSource>
+  </DataSources>
+  <DataSets>
+    <DataSet Name="ds_invcountry">
+      <Query>
+        <DataSourceName>DS_MSSQL_INVOICE</DataSourceName>
+        <rd:UseGenericDesigner>true</rd:UseGenericDesigner>
+        <CommandText>SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED 
+SET NOCOUNT ON 
+DECLARE @chhvinvcountry varchar (200)
+
+SET @chhvinvcountry = 'SELECT COUNTRY FROM [dbo].[E-Store Invoice] GROUP BY COUNTRY ORDER BY COUNTRY'
+
+EXEC (@chhvinvcountry)</CommandText>
+      </Query>
+      <Fields>
+        <Field Name="COUNTRY">
+          <rd:TypeName>System.String</rd:TypeName>
+          <DataField>COUNTRY</DataField>
+        </Field>
+      </Fields>
+    </DataSet>
+    <DataSet Name="ds_customer">
+      <Query>
+        <DataSourceName>DS_MSSQL_INVOICE</DataSourceName>
+        <rd:UseGenericDesigner>true</rd:UseGenericDesigner>
+        <CommandText>SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED 
+SET NOCOUNT ON 
+DECLARE @chhvinvcustomer varchar (200)
+
+SET @chhvinvcustomer = 'SELECT Customer FROM [dbo].[E-Store Invoice] GROUP BY Customer ORDER BY Customer'
+
+EXEC (@chhvinvcustomer)</CommandText>
+      </Query>
+      <Fields>
+        <Field Name="Customer">
+          <rd:TypeName>System.String</rd:TypeName>
+          <DataField>Customer</DataField>
+        </Field>
+      </Fields>
+    </DataSet>
+    <DataSet Name="ds_salesperson">
+      <Query>
+        <DataSourceName>DS_MSSQL_INVOICE</DataSourceName>
+        <rd:UseGenericDesigner>true</rd:UseGenericDesigner>
+        <CommandText>SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED 
+SET NOCOUNT ON 
+DECLARE @chhvinvslsperson varchar (200)
+
+SET @chhvinvslsperson = 'SELECT Salesperson FROM [dbo].[E-Store Invoice] GROUP BY Salesperson ORDER BY Salesperson'
+
+EXEC (@chhvinvslsperson)</CommandText>
+      </Query>
+      <Fields>
+        <Field Name="Salesperson">
+          <rd:TypeName>System.String</rd:TypeName>
+          <DataField>Salesperson</DataField>
+        </Field>
+      </Fields>
+    </DataSet>
+    <DataSet Name="ds_invoice">
+      <Query>
+        <DataSourceName>DS_MSSQL_INVOICE</DataSourceName>
+        <QueryParameters>
+          <QueryParameter Name="@chhvinvcustomer">
+            <Value>=Parameters!chhvinvcustomer.Value</Value>
+          </QueryParameter>
+          <QueryParameter Name="@chhvinvslsperson">
+            <Value>=Parameters!chhvinvslsperson.Value</Value>
+          </QueryParameter>
+        </QueryParameters>
+        <rd:UseGenericDesigner>true</rd:UseGenericDesigner>
+        <CommandText>SELECT
+	 Customer		
+	,Country		
+	,Region	
+	,Segment	
+	,Salesperson
+	,Emp_ID
+	,Order_ID	
+	,Order_Date
+	,Required_Date
+	,Shipped_Date
+	,Shipper
+	,Product_Name
+	,Unit_Price
+	,Quantity
+	,Subtotal
+	,Profit
+FROM [dbo].[E-Store Invoice]
+WHERE Customer in(@chhvinvcustomer)	
+AND Salesperson = @chhvinvslsperson</CommandText>
+      </Query>
+      <Fields>
+        <Field Name="Customer">
+          <rd:TypeName>System.String</rd:TypeName>
+          <DataField>Customer</DataField>
+        </Field>
+        <Field Name="Country">
+          <rd:TypeName>System.String</rd:TypeName>
+          <DataField>Country</DataField>
+        </Field>
+        <Field Name="Region">
+          <rd:TypeName>System.String</rd:TypeName>
+          <DataField>Region</DataField>
+        </Field>
+        <Field Name="Segment">
+          <rd:TypeName>System.String</rd:TypeName>
+          <DataField>Segment</DataField>
+        </Field>
+        <Field Name="Salesperson">
+          <rd:TypeName>System.String</rd:TypeName>
+          <DataField>Salesperson</DataField>
+        </Field>
+        <Field Name="Emp_ID">
+          <rd:TypeName>System.Int16</rd:TypeName>
+          <DataField>Emp_ID</DataField>
+        </Field>
+        <Field Name="Order_ID">
+          <rd:TypeName>System.Int16</rd:TypeName>
+          <DataField>Order_ID</DataField>
+        </Field>
+        <Field Name="Order_Date">
+          <rd:TypeName>System.DateTime</rd:TypeName>
+          <DataField>Order_Date</DataField>
+        </Field>
+        <Field Name="Required_Date">
+          <rd:TypeName>System.DateTime</rd:TypeName>
+          <DataField>Required_Date</DataField>
+        </Field>
+        <Field Name="Shipped_Date">
+          <rd:TypeName>System.DateTime</rd:TypeName>
+          <DataField>Shipped_Date</DataField>
+        </Field>
+        <Field Name="Shipper">
+          <rd:TypeName>System.String</rd:TypeName>
+          <DataField>Shipper</DataField>
+        </Field>
+        <Field Name="Product_Name">
+          <rd:TypeName>System.String</rd:TypeName>
+          <DataField>Product_Name</DataField>
+        </Field>
+        <Field Name="Unit_Price">
+          <rd:TypeName>System.Double</rd:TypeName>
+          <DataField>Unit_Price</DataField>
+        </Field>
+        <Field Name="Quantity">
+          <rd:TypeName>System.Byte</rd:TypeName>
+          <DataField>Quantity</DataField>
+        </Field>
+        <Field Name="Subtotal">
+          <rd:TypeName>System.Double</rd:TypeName>
+          <DataField>Subtotal</DataField>
+        </Field>
+        <Field Name="Profit">
+          <rd:TypeName>System.Double</rd:TypeName>
+          <DataField>Profit</DataField>
+        </Field>
+      </Fields>
+    </DataSet>
+    <DataSet Name="ds_dlftcustomer">
+      <Query>
+        <DataSourceName>DS_MSSQL_INVOICE</DataSourceName>
+        <rd:UseGenericDesigner>true</rd:UseGenericDesigner>
+        <CommandText>SELECT Customer FROM [dbo].[E-Store Invoice] WHERE Customer = 'Alfreds Futterkiste' GROUP BY Customer ORDER BY Customer</CommandText>
+      </Query>
+      <Fields>
+        <Field Name="Customer">
+          <rd:TypeName>System.String</rd:TypeName>
+          <DataField>Customer</DataField>
+        </Field>
+      </Fields>
+    </DataSet>
+    <DataSet Name="ds_dlftcountry">
+      <Query>
+        <DataSourceName>DS_MSSQL_INVOICE</DataSourceName>
+        <rd:UseGenericDesigner>true</rd:UseGenericDesigner>
+        <CommandText>SELECT Country FROM [dbo].[E-Store Invoice] WHERE Country = 'Germany' GROUP BY Country ORDER BY Country</CommandText>
+      </Query>
+      <Fields>
+        <Field Name="Country">
+          <rd:TypeName>System.String</rd:TypeName>
+          <DataField>Country</DataField>
+        </Field>
+      </Fields>
+    </DataSet>
+    <DataSet Name="ds_dlftsaleperson">
+      <Query>
+        <DataSourceName>DS_MSSQL_INVOICE</DataSourceName>
+        <rd:UseGenericDesigner>true</rd:UseGenericDesigner>
+        <CommandText>SELECT Salesperson FROM [dbo].[E-Store Invoice] WHERE Salesperson = 'Nancy Davolio' GROUP BY Salesperson ORDER BY Salesperson</CommandText>
+      </Query>
+      <Fields>
+        <Field Name="Salesperson">
+          <rd:TypeName>System.String</rd:TypeName>
+          <DataField>Salesperson</DataField>
+        </Field>
+      </Fields>
+    </DataSet>
+  </DataSets>
+  <ReportSections>
+    <ReportSection>
+      <Body>
+        <ReportItems>
+          <Textbox Name="ReportTitle">
+            <rd:WatermarkTextbox>Title</rd:WatermarkTextbox>
+            <rd:DefaultName>ReportTitle</rd:DefaultName>
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>Customer Invoices Profit Per Region</Value>
+                    <Style>
+                      <FontFamily>Segoe UI Light</FontFamily>
+                      <FontSize>20pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                      <Color>White</Color>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Center</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <Top>0mm</Top>
+            <Left>0.05503cm</Left>
+            <Height>13.54667mm</Height>
+            <Width>355.68472mm</Width>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <BackgroundColor>CornflowerBlue</BackgroundColor>
+              <VerticalAlign>Middle</VerticalAlign>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
+          <Tablix Name="Tablix5">
+            <TablixBody>
+              <TablixColumns>
+                <TablixColumn>
+                  <Width>89.84056mm</Width>
+                </TablixColumn>
+                <TablixColumn>
+                  <Width>66.27501mm</Width>
+                </TablixColumn>
+              </TablixColumns>
+              <TablixRows>
+                <TablixRow>
+                  <Height>7.905mm</Height>
+                  <TablixCells>
+                    <TablixCell>
+                      <CellContents>
+                        <Textbox Name="Textbox77">
+                          <rd:DefaultName>Textbox77</rd:DefaultName>
+                          <CanGrow>true</CanGrow>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>Customer</Value>
+                                  <Style>
+                                    <FontWeight>Bold</FontWeight>
+                                    <Color>White</Color>
+                                  </Style>
+                                </TextRun>
+                              </TextRuns>
+                              <Style>
+                                <TextAlign>Center</TextAlign>
+                              </Style>
+                            </Paragraph>
+                          </Paragraphs>
+                          <Style>
+                            <Border>
+                              <Color>LightGrey</Color>
+                              <Style>Solid</Style>
+                            </Border>
+                            <BackgroundColor>DimGray</BackgroundColor>
+                            <VerticalAlign>Middle</VerticalAlign>
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>2pt</PaddingRight>
+                            <PaddingTop>2pt</PaddingTop>
+                            <PaddingBottom>2pt</PaddingBottom>
+                          </Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                    <TablixCell>
+                      <CellContents>
+                        <Textbox Name="Region1">
+                          <rd:DefaultName>Region1</rd:DefaultName>
+                          <CanGrow>true</CanGrow>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>=Fields!Region.Value</Value>
+                                  <Style>
+                                    <FontFamily>Arial</FontFamily>
+                                    <FontWeight>Bold</FontWeight>
+                                    <Color>White</Color>
+                                  </Style>
+                                </TextRun>
+                              </TextRuns>
+                              <Style>
+                                <TextAlign>Center</TextAlign>
+                              </Style>
+                            </Paragraph>
+                          </Paragraphs>
+                          <Style>
+                            <Border>
+                              <Color>LightGrey</Color>
+                              <Style>Solid</Style>
+                            </Border>
+                            <BackgroundColor>DimGray</BackgroundColor>
+                            <VerticalAlign>Middle</VerticalAlign>
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>2pt</PaddingRight>
+                            <PaddingTop>2pt</PaddingTop>
+                            <PaddingBottom>2pt</PaddingBottom>
+                          </Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                  </TablixCells>
+                </TablixRow>
+                <TablixRow>
+                  <Height>18.48834mm</Height>
+                  <TablixCells>
+                    <TablixCell>
+                      <CellContents>
+                        <Textbox Name="Customer">
+                          <rd:DefaultName>Customer</rd:DefaultName>
+                          <CanGrow>true</CanGrow>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>=Fields!Customer.Value</Value>
+                                  <Style />
+                                </TextRun>
+                              </TextRuns>
+                              <Style>
+                                <TextAlign>Center</TextAlign>
+                              </Style>
+                            </Paragraph>
+                          </Paragraphs>
+                          <Style>
+                            <Border>
+                              <Color>LightGrey</Color>
+                              <Style>Solid</Style>
+                            </Border>
+                            <VerticalAlign>Middle</VerticalAlign>
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>2pt</PaddingRight>
+                            <PaddingTop>2pt</PaddingTop>
+                            <PaddingBottom>2pt</PaddingBottom>
+                          </Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                    <TablixCell>
+                      <CellContents>
+                        <Textbox Name="Profit">
+                          <rd:DefaultName>Profit</rd:DefaultName>
+                          <CanGrow>true</CanGrow>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>=Sum(Fields!Profit.Value)</Value>
+                                  <Style>
+                                    <FontFamily>Arial</FontFamily>
+                                  </Style>
+                                </TextRun>
+                              </TextRuns>
+                              <Style>
+                                <TextAlign>Center</TextAlign>
+                              </Style>
+                            </Paragraph>
+                          </Paragraphs>
+                          <Style>
+                            <Border>
+                              <Color>LightGrey</Color>
+                              <Style>Solid</Style>
+                            </Border>
+                            <BackgroundColor>=Switch(Sum(Fields!Profit.Value) &gt;= 50000, "DarkGreen",
+Sum(Fields!Profit.Value) &gt;= 30000, "SeaGreen",
+Sum(Fields!Profit.Value) &gt;=20000, "Lime",
+Sum(Fields!Profit.Value) &gt;=1, "Khaki")</BackgroundColor>
+                            <VerticalAlign>Middle</VerticalAlign>
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>2pt</PaddingRight>
+                            <PaddingTop>2pt</PaddingTop>
+                            <PaddingBottom>2pt</PaddingBottom>
+                          </Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                  </TablixCells>
+                </TablixRow>
+              </TablixRows>
+            </TablixBody>
+            <TablixColumnHierarchy>
+              <TablixMembers>
+                <TablixMember>
+                  <TablixHeader>
+                    <Size>1.41966mm</Size>
+                    <CellContents>
+                      <Textbox Name="Textbox83">
+                        <rd:DefaultName>Textbox83</rd:DefaultName>
+                        <CanGrow>true</CanGrow>
+                        <KeepTogether>true</KeepTogether>
+                        <Paragraphs>
+                          <Paragraph>
+                            <TextRuns>
+                              <TextRun>
+                                <Value />
+                                <Style>
+                                  <FontFamily>Arial</FontFamily>
+                                </Style>
+                              </TextRun>
+                            </TextRuns>
+                            <Style />
+                          </Paragraph>
+                        </Paragraphs>
+                        <Style>
+                          <Border>
+                            <Color>LightGrey</Color>
+                            <Style>Solid</Style>
+                          </Border>
+                          <BackgroundColor>DimGray</BackgroundColor>
+                          <PaddingLeft>2pt</PaddingLeft>
+                          <PaddingRight>2pt</PaddingRight>
+                          <PaddingTop>2pt</PaddingTop>
+                          <PaddingBottom>2pt</PaddingBottom>
+                        </Style>
+                      </Textbox>
+                    </CellContents>
+                  </TablixHeader>
+                  <TablixMembers>
+                    <TablixMember />
+                  </TablixMembers>
+                </TablixMember>
+                <TablixMember>
+                  <Group Name="Region">
+                    <GroupExpressions>
+                      <GroupExpression>=Fields!Region.Value</GroupExpression>
+                    </GroupExpressions>
+                  </Group>
+                  <SortExpressions>
+                    <SortExpression>
+                      <Value>=Fields!Region.Value</Value>
+                    </SortExpression>
+                  </SortExpressions>
+                  <TablixHeader>
+                    <Size>1.41966mm</Size>
+                    <CellContents>
+                      <Textbox Name="Region">
+                        <rd:DefaultName>Region</rd:DefaultName>
+                        <CanGrow>true</CanGrow>
+                        <KeepTogether>true</KeepTogether>
+                        <Paragraphs>
+                          <Paragraph>
+                            <TextRuns>
+                              <TextRun>
+                                <Value />
+                                <Style>
+                                  <FontFamily>Arial</FontFamily>
+                                </Style>
+                              </TextRun>
+                            </TextRuns>
+                            <Style />
+                          </Paragraph>
+                        </Paragraphs>
+                        <Style>
+                          <Border>
+                            <Color>LightGrey</Color>
+                            <Style>Solid</Style>
+                          </Border>
+                          <BackgroundColor>DimGray</BackgroundColor>
+                          <PaddingLeft>2pt</PaddingLeft>
+                          <PaddingRight>2pt</PaddingRight>
+                          <PaddingTop>2pt</PaddingTop>
+                          <PaddingBottom>2pt</PaddingBottom>
+                        </Style>
+                      </Textbox>
+                    </CellContents>
+                  </TablixHeader>
+                  <TablixMembers>
+                    <TablixMember />
+                  </TablixMembers>
+                </TablixMember>
+              </TablixMembers>
+            </TablixColumnHierarchy>
+            <TablixRowHierarchy>
+              <TablixMembers>
+                <TablixMember>
+                  <KeepWithGroup>After</KeepWithGroup>
+                </TablixMember>
+                <TablixMember>
+                  <Group Name="Details" />
+                </TablixMember>
+              </TablixMembers>
+            </TablixRowHierarchy>
+            <DataSetName>ds_invoice</DataSetName>
+            <Top>15.367mm</Top>
+            <Left>2.24367mm</Left>
+            <Height>27.813mm</Height>
+            <Width>156.11557mm</Width>
+            <ZIndex>1</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+            </Style>
+          </Tablix>
+        </ReportItems>
+        <Height>57.15mm</Height>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+        </Style>
+      </Body>
+      <Width>425.45003mm</Width>
+      <Page>
+        <PageFooter>
+          <Height>11.43mm</Height>
+          <PrintOnFirstPage>true</PrintOnFirstPage>
+          <PrintOnLastPage>true</PrintOnLastPage>
+          <ReportItems>
+            <Textbox Name="ExecutionTime">
+              <rd:DefaultName>ExecutionTime</rd:DefaultName>
+              <CanGrow>true</CanGrow>
+              <KeepTogether>true</KeepTogether>
+              <Paragraphs>
+                <Paragraph>
+                  <TextRuns>
+                    <TextRun>
+                      <Value>=Globals!ExecutionTime</Value>
+                      <Style />
+                    </TextRun>
+                  </TextRuns>
+                  <Style>
+                    <TextAlign>Right</TextAlign>
+                  </Style>
+                </Paragraph>
+              </Paragraphs>
+              <Top>5.08mm</Top>
+              <Left>101.6mm</Left>
+              <Height>6.35mm</Height>
+              <Width>50.8mm</Width>
+              <Style>
+                <Border>
+                  <Style>None</Style>
+                </Border>
+                <PaddingLeft>2pt</PaddingLeft>
+                <PaddingRight>2pt</PaddingRight>
+                <PaddingTop>2pt</PaddingTop>
+                <PaddingBottom>2pt</PaddingBottom>
+              </Style>
+            </Textbox>
+          </ReportItems>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+          </Style>
+        </PageFooter>
+        <PageHeight>29.7cm</PageHeight>
+        <PageWidth>21cm</PageWidth>
+        <LeftMargin>2cm</LeftMargin>
+        <RightMargin>2cm</RightMargin>
+        <TopMargin>2cm</TopMargin>
+        <BottomMargin>2cm</BottomMargin>
+        <ColumnSpacing>0.13cm</ColumnSpacing>
+        <Style />
+      </Page>
+    </ReportSection>
+  </ReportSections>
+  <ReportParameters>
+    <ReportParameter Name="chhvinvcustomer">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <DataSetReference>
+          <DataSetName>ds_dlftcustomer</DataSetName>
+          <ValueField>Customer</ValueField>
+        </DataSetReference>
+      </DefaultValue>
+      <Prompt>Select Customer</Prompt>
+      <ValidValues>
+        <DataSetReference>
+          <DataSetName>ds_customer</DataSetName>
+          <ValueField>Customer</ValueField>
+          <LabelField>Customer</LabelField>
+        </DataSetReference>
+      </ValidValues>
+      <MultiValue>true</MultiValue>
+      <cl:ComponentMetadata>
+        <cl:HideUpdateNotifications>true</cl:HideUpdateNotifications>
+      </cl:ComponentMetadata>
+    </ReportParameter>
+    <ReportParameter Name="chhvinvslsperson">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <DataSetReference>
+          <DataSetName>ds_dlftsaleperson</DataSetName>
+          <ValueField>Salesperson</ValueField>
+        </DataSetReference>
+      </DefaultValue>
+      <Prompt>Select SalePerson</Prompt>
+      <ValidValues>
+        <DataSetReference>
+          <DataSetName>ds_salesperson</DataSetName>
+          <ValueField>Salesperson</ValueField>
+          <LabelField>Salesperson</LabelField>
+        </DataSetReference>
+      </ValidValues>
+      <cl:ComponentMetadata>
+        <cl:HideUpdateNotifications>true</cl:HideUpdateNotifications>
+      </cl:ComponentMetadata>
+    </ReportParameter>
+  </ReportParameters>
+  <ReportParametersLayout>
+    <GridLayoutDefinition>
+      <NumberOfColumns>4</NumberOfColumns>
+      <NumberOfRows>2</NumberOfRows>
+      <CellDefinitions>
+        <CellDefinition>
+          <ColumnIndex>0</ColumnIndex>
+          <RowIndex>0</RowIndex>
+          <ParameterName>chhvinvcustomer</ParameterName>
+        </CellDefinition>
+        <CellDefinition>
+          <ColumnIndex>0</ColumnIndex>
+          <RowIndex>1</RowIndex>
+          <ParameterName>chhvinvslsperson</ParameterName>
+        </CellDefinition>
+      </CellDefinitions>
+    </GridLayoutDefinition>
+  </ReportParametersLayout>
+</Report>
